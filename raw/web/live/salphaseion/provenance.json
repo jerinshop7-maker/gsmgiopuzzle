@@ -1,0 +1,34 @@
+{
+  "acquired_at_utc": "2026-09-03T18:09:18+00:00",
+  "body_length": 4536,
+  "body_sha256": "a83d3de7810f26b19b4965339b76d403e44f6b6877e5d7de2555480ca1779d77",
+  "body_sha512": "f6234d8b99577d6b5f20b9492fca4178b7fa3f5716c7df8d5dcdd5237cd251527e220277236fd0113d7c426193d666b2098482da9c74d3510e99863140826901",
+  "declared_content_type": "text/html; charset=utf-8",
+  "declared_encoding": "utf-8",
+  "elapsed_seconds": null,
+  "final_url": "https://gsmg.io/89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32",
+  "fingerprint": {
+    "hostname": "localhost",
+    "python": "3.13.12",
+    "tool_version": "git:workspace-bootstrap",
+    "user": "kali"
+  },
+  "headers": {
+    "Cache-Control": "no-store",
+    "Connection": "keep-alive",
+    "Content-Encoding": "gzip",
+    "Content-Security-Policy": "frame-ancestors 'none'",
+    "Content-Type": "text/html; charset=utf-8",
+    "Date": "Thu, 03 Sep 2026 18:09:18 GMT",
+    "Last-Modified": "Sat, 15 Aug 2026 23:16:42 GMT",
+    "Server": "nginx",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Transfer-Encoding": "chunked",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY"
+  },
+  "history_status_codes": [],
+  "label": "salphaseion",
+  "status_code": 200,
+  "url": "https://gsmg.io/89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32"
+}

@@ -1,0 +1,10 @@
+{
+  "acquired_at_utc": "2026-09-03T18:18:47+00:00",
+  "fingerprint": {
+    "hostname": "localhost",
+    "python": "3.13.12",
+    "tool_version": "git:workspace-bootstrap",
+    "user": "kali"
+  },
+  "owner_repo": "Naddiseo/gsmgio-5btc-puzzle"
+}

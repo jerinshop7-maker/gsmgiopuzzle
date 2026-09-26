@@ -1,0 +1,34 @@
+{
+  "acquired_at_utc": "2026-09-03T18:09:13+00:00",
+  "body_length": 832,
+  "body_sha256": "7cb766d406008a397f8ae32b3a38ca68b42724bb07b3481deb84baad5c725183",
+  "body_sha512": "0461d8c3e476f07adc6ea4460f1fc1bb84347794f332ec2c42404b899f15fcf53ea46c69bb8715ebc0be5dd48fe6b8e8fc982285712465109c3dc4609ba46503",
+  "declared_content_type": "text/html; charset=utf-8",
+  "declared_encoding": "utf-8",
+  "elapsed_seconds": null,
+  "final_url": "https://gsmg.io/theseedisplanted",
+  "fingerprint": {
+    "hostname": "localhost",
+    "python": "3.13.12",
+    "tool_version": "git:workspace-bootstrap",
+    "user": "kali"
+  },
+  "headers": {
+    "Cache-Control": "no-store",
+    "Connection": "keep-alive",
+    "Content-Encoding": "gzip",
+    "Content-Security-Policy": "frame-ancestors 'none'",
+    "Content-Type": "text/html; charset=utf-8",
+    "Date": "Thu, 03 Sep 2026 18:09:13 GMT",
+    "Last-Modified": "Sat, 15 Aug 2026 23:16:41 GMT",
+    "Server": "nginx",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Transfer-Encoding": "chunked",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY"
+  },
+  "history_status_codes": [],
+  "label": "theseedisplanted",
+  "status_code": 200,
+  "url": "https://gsmg.io/theseedisplanted"
+}

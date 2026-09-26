@@ -1,0 +1,18 @@
+{
+  "source": "https://github.com/puzzlehunt/gsmgio-5btc-puzzle/issues/67",
+  "retrieved_utc": "2026-09-15",
+  "description": "Two public user-attachment images embedded in Issue #67, Merlon in QR code.",
+  "attachments": {
+    "merlon_original.png": {
+      "url": "https://github.com/user-attachments/assets/b5941e00-ed2d-404c-9b45-730aed240f9c",
+      "sha256": "74f02405066ef2f901d57d3ce467b69d8b4f0ad4b81a806ef03de3a83904fdb6",
+      "size": [1156, 815]
+    },
+    "merlon_colors.png": {
+      "url": "https://github.com/user-attachments/assets/c09af128-befb-447b-892a-eea93f0be00b",
+      "sha256": "e7c1aa344dec3985207d37aaf5662476a7b5539e1e1efe5e0c2fc31c750f1594",
+      "size": [794, 797]
+    }
+  },
+  "authority": "secondary research capture; never replaces the canonical puzzle.png grid"
+}

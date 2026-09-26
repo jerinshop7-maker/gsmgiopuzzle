@@ -1,0 +1,34 @@
+{
+  "acquired_at_utc": "2026-09-03T18:11:09+00:00",
+  "body_length": 4269,
+  "body_sha256": "ca079023065e3d92167d0040987087decb2ddee9308e9ea763556f255ff5d9ec",
+  "body_sha512": "c11a5e6632ca3dcff1f108445428f57013535d70481b1fe7893fc14fd708d400050184adb285739c86d2a103f083c7b934efaa36f797631053b091908569266b",
+  "declared_content_type": "image/png",
+  "declared_encoding": null,
+  "elapsed_seconds": null,
+  "final_url": "https://gsmg.io/img/favicon.png",
+  "fingerprint": {
+    "hostname": "localhost",
+    "python": "3.13.12",
+    "tool_version": "git:workspace-bootstrap",
+    "user": "kali"
+  },
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "no-store",
+    "Connection": "keep-alive",
+    "Content-Length": "4269",
+    "Content-Security-Policy": "frame-ancestors 'none'",
+    "Content-Type": "image/png",
+    "Date": "Thu, 03 Sep 2026 18:11:10 GMT",
+    "Last-Modified": "Sat, 15 Aug 2026 23:16:50 GMT",
+    "Server": "nginx",
+    "Strict-Transport-Security": "max-age=31536000",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY"
+  },
+  "history_status_codes": [],
+  "label": "img_favicon",
+  "status_code": 200,
+  "url": "https://gsmg.io/img/favicon.png"
+}

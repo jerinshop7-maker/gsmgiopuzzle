@@ -1,0 +1,34 @@
+{
+  "acquired_at_utc": "2026-09-03T18:09:15+00:00",
+  "body_length": 9207,
+  "body_sha256": "06fbd4461ab20d45c54a7053c7c0cfa256ba82a5ad4c73a47fac67f3f1cdf7d9",
+  "body_sha512": "a500c8153a2684e55b80eb30c6dd4a116a0ef8c2fbdba4950e44e73750195815276836f0539869ac3103c182a8f3ef43c9e7ffd182274a30b75d1487a206532f",
+  "declared_content_type": "text/html; charset=utf-8",
+  "declared_encoding": "utf-8",
+  "elapsed_seconds": null,
+  "final_url": "https://gsmg.io/choiceisanillusioncreatedbetweenthosewithpowerandthosewithoutaveryspecialdessertiwroteitmyself",
+  "fingerprint": {
+    "hostname": "localhost",
+    "python": "3.13.12",
+    "tool_version": "git:workspace-bootstrap",
+    "user": "kali"
+  },
+  "headers": {
+    "Cache-Control": "no-store",
+    "Connection": "keep-alive",
+    "Content-Encoding": "gzip",
+    "Content-Security-Policy": "frame-ancestors 'none'",
+    "Content-Type": "text/html; charset=utf-8",
+    "Date": "Thu, 03 Sep 2026 18:09:16 GMT",
+    "Last-Modified": "Sat, 15 Aug 2026 23:16:44 GMT",
+    "Server": "nginx",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Transfer-Encoding": "chunked",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY"
+  },
+  "history_status_codes": [],
+  "label": "phase2",
+  "status_code": 200,
+  "url": "https://gsmg.io/choiceisanillusioncreatedbetweenthosewithpowerandthosewithoutaveryspecialdessertiwroteitmyself"
+}

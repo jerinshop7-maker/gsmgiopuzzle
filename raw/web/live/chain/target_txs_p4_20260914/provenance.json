@@ -1,0 +1,38 @@
+{
+  "acquired_at_utc": "2026-09-14T18:54:33+00:00",
+  "body_length": 55676,
+  "body_sha256": "762a88dd24bf53e52ad1c33bba46caf68cf4923ccb4ae5190f926c4fa13ef7e7",
+  "body_sha512": "5e53826f4be46be78ae7a998f2e6a44c79f59c6d25bce4a865d5a39d684b5ff5245d1b8b59ed25db9e891a9984fcfb0c8de69a38c5321a2531c12b390d024744",
+  "declared_content_type": "application/json",
+  "declared_encoding": "utf-8",
+  "elapsed_seconds": null,
+  "final_url": "https://blockstream.info/api/address/1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe/txs/chain/6c1c632ecf1e580f7c0e7474395e2f532fd230ac60d11f26a3c0e58d1af0a4dc",
+  "fingerprint": {
+    "hostname": "localhost",
+    "python": "3.13.12",
+    "tool_version": "git:workspace-bootstrap",
+    "user": "kali"
+  },
+  "headers": {
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Expose-Headers": "x-total-results",
+    "Connection": "keep-alive",
+    "Content-Encoding": "gzip",
+    "Content-Security-Policy": "default-src 'self'; script-src 'self' 'unsafe-eval'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; font-src 'self' data:; object-src 'none'",
+    "Content-Type": "application/json",
+    "Date": "Mon, 14 Sep 2026 18:54:32 GMT",
+    "Referrer-Policy": "no-referrer",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "Transfer-Encoding": "chunked",
+    "Vary": "Accept-Encoding",
+    "X-Cache-Status": "MISS",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1; mode=block",
+    "cache-control": "public, max-age=10"
+  },
+  "history_status_codes": [],
+  "label": "target_txs_p4_20260914",
+  "status_code": 200,
+  "url": "https://blockstream.info/api/address/1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe/txs/chain/6c1c632ecf1e580f7c0e7474395e2f532fd230ac60d11f26a3c0e58d1af0a4dc"
+}

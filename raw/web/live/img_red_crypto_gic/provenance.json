@@ -1,0 +1,34 @@
+{
+  "acquired_at_utc": "2026-09-03T18:10:56+00:00",
+  "body_length": 1642,
+  "body_sha256": "8aad87b987ee7d8ee8c7884ba47abc022cb31753fd1a16a7e59101e50dd4a6f6",
+  "body_sha512": "12fdb762844f6f9a9703ce7943adb44b3ed3e3a2e8408b65612dc9d08b00acc68e60bed8e0bcf23559f42f57b971450c9dabedc03912a32cee5852e0656071a0",
+  "declared_content_type": "image/png",
+  "declared_encoding": null,
+  "elapsed_seconds": null,
+  "final_url": "https://gsmg.io/img/red_crypto_gic.png",
+  "fingerprint": {
+    "hostname": "localhost",
+    "python": "3.13.12",
+    "tool_version": "git:workspace-bootstrap",
+    "user": "kali"
+  },
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "no-store",
+    "Connection": "keep-alive",
+    "Content-Length": "1642",
+    "Content-Security-Policy": "frame-ancestors 'none'",
+    "Content-Type": "image/png",
+    "Date": "Thu, 03 Sep 2026 18:10:56 GMT",
+    "Last-Modified": "Sat, 15 Aug 2026 23:16:47 GMT",
+    "Server": "nginx",
+    "Strict-Transport-Security": "max-age=31536000",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY"
+  },
+  "history_status_codes": [],
+  "label": "img_red_crypto_gic",
+  "status_code": 200,
+  "url": "https://gsmg.io/img/red_crypto_gic.png"
+}

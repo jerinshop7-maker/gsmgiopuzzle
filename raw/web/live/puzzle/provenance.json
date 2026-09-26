@@ -1,0 +1,34 @@
+{
+  "acquired_at_utc": "2026-09-03T18:09:10+00:00",
+  "body_length": 29931,
+  "body_sha256": "38125bbdf1ea58b9b30b075bc6bf71e4089d04bba37098317e47097e2f2a1830",
+  "body_sha512": "357511c59db2b8a92db4f296398818e4cc8854f2256327798142b86a80a007fac37cd6f8f13f174a6338eff8fbb2f4cc04b25e08a9aa1c62b6280bafa0945563",
+  "declared_content_type": "image/png",
+  "declared_encoding": null,
+  "elapsed_seconds": null,
+  "final_url": "https://gsmg.io/puzzle",
+  "fingerprint": {
+    "hostname": "localhost",
+    "python": "3.13.12",
+    "tool_version": "git:workspace-bootstrap",
+    "user": "kali"
+  },
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "no-store",
+    "Connection": "keep-alive",
+    "Content-Length": "29931",
+    "Content-Security-Policy": "frame-ancestors 'none'",
+    "Content-Type": "image/png",
+    "Date": "Thu, 03 Sep 2026 18:09:10 GMT",
+    "Last-Modified": "Sat, 15 Aug 2026 23:16:52 GMT",
+    "Server": "nginx",
+    "Strict-Transport-Security": "max-age=31536000",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY"
+  },
+  "history_status_codes": [],
+  "label": "puzzle",
+  "status_code": 200,
+  "url": "https://gsmg.io/puzzle"
+}

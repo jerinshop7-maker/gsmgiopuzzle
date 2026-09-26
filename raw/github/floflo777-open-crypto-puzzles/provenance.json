@@ -1,0 +1,8 @@
+{
+  "acquired_at_utc": "2026-09-04T04:31:22+00:00",
+  "owner_repo": "floflo777/open-crypto-puzzles",
+  "path": "1-big-prizes/gsmg-io-5btc-puzzle",
+  "method": "git clone --depth 1 --filter=blob:none --sparse + sparse-checkout subdir",
+  "head_commit": "4b7d48a110d4bfce0dea711f8e7935cd76b202a4",
+  "note": "third-party research snapshot; corroboration only, not primary evidence"
+}

@@ -1,0 +1,38 @@
+{
+  "acquired_at_utc": "2026-09-14T18:52:09+00:00",
+  "body_length": 2198,
+  "body_sha256": "4ba3331d586c556bf35e080cdda4e01d849e73080cb11954811d9bb001eb661d",
+  "body_sha512": "08a38266a455cfc6f32b808a022c7f3d63058dedd94495522c998992ee581e7723936522ad8cc9c584684683719d6657c4c4d49bb871c1efd25e89765e91651a",
+  "declared_content_type": "application/json",
+  "declared_encoding": "utf-8",
+  "elapsed_seconds": null,
+  "final_url": "https://blockstream.info/api/tx/973646bb3204b9e67e0fcb58efabe951aaf3714020c277f77092ae59bc1a1bd6",
+  "fingerprint": {
+    "hostname": "localhost",
+    "python": "3.13.12",
+    "tool_version": "git:workspace-bootstrap",
+    "user": "kali"
+  },
+  "headers": {
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Expose-Headers": "x-total-results",
+    "Connection": "keep-alive",
+    "Content-Encoding": "gzip",
+    "Content-Security-Policy": "default-src 'self'; script-src 'self' 'unsafe-eval'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; font-src 'self' data:; object-src 'none'",
+    "Content-Type": "application/json",
+    "Date": "Mon, 14 Sep 2026 18:52:09 GMT",
+    "Referrer-Policy": "no-referrer",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "Transfer-Encoding": "chunked",
+    "Vary": "Accept-Encoding",
+    "X-Cache-Status": "MISS",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1; mode=block",
+    "cache-control": "public, max-age=157784630"
+  },
+  "history_status_codes": [],
+  "label": "target_witness_tx_20260914",
+  "status_code": 200,
+  "url": "https://blockstream.info/api/tx/973646bb3204b9e67e0fcb58efabe951aaf3714020c277f77092ae59bc1a1bd6"
+}

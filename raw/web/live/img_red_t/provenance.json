@@ -1,0 +1,34 @@
+{
+  "acquired_at_utc": "2026-09-03T18:11:06+00:00",
+  "body_length": 506,
+  "body_sha256": "86fb2eff01d3b4f25e7bd9c64c736ce0ffd0e129b8c77fab81aac5d02fd04d35",
+  "body_sha512": "fcbd70e921460bc874bb743cdb7f89bd047d75d4dc01022ea18bf48e07750d62d993ff528e7fc789c73106c01f2376f0bc42d5023fff8308884b6dc13a4a54a8",
+  "declared_content_type": "image/png",
+  "declared_encoding": null,
+  "elapsed_seconds": null,
+  "final_url": "https://gsmg.io/img/red_t.png",
+  "fingerprint": {
+    "hostname": "localhost",
+    "python": "3.13.12",
+    "tool_version": "git:workspace-bootstrap",
+    "user": "kali"
+  },
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "no-store",
+    "Connection": "keep-alive",
+    "Content-Length": "506",
+    "Content-Security-Policy": "frame-ancestors 'none'",
+    "Content-Type": "image/png",
+    "Date": "Thu, 03 Sep 2026 18:11:07 GMT",
+    "Last-Modified": "Sat, 15 Aug 2026 23:16:45 GMT",
+    "Server": "nginx",
+    "Strict-Transport-Security": "max-age=31536000",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY"
+  },
+  "history_status_codes": [],
+  "label": "img_red_t",
+  "status_code": 200,
+  "url": "https://gsmg.io/img/red_t.png"
+}

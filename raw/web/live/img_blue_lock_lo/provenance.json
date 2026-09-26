@@ -1,0 +1,34 @@
+{
+  "acquired_at_utc": "2026-09-03T18:10:53+00:00",
+  "body_length": 783,
+  "body_sha256": "60b01e5bc4181ed4236df736f7f7841aa98dde1aac108d65a385f5dc7a97cc6b",
+  "body_sha512": "87fab235640246eb242bc3bd392d1c4d63f8016e3a2049aa394ba0fe84a0e0fd09613b5b04a67a63581f3eb7b7490d1b9d09c6eabfac037f0385679f1316ee2c",
+  "declared_content_type": "image/png",
+  "declared_encoding": null,
+  "elapsed_seconds": null,
+  "final_url": "https://gsmg.io/img/blue_lock_lo.png",
+  "fingerprint": {
+    "hostname": "localhost",
+    "python": "3.13.12",
+    "tool_version": "git:workspace-bootstrap",
+    "user": "kali"
+  },
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "no-store",
+    "Connection": "keep-alive",
+    "Content-Length": "783",
+    "Content-Security-Policy": "frame-ancestors 'none'",
+    "Content-Type": "image/png",
+    "Date": "Thu, 03 Sep 2026 18:10:54 GMT",
+    "Last-Modified": "Sat, 15 Aug 2026 23:16:48 GMT",
+    "Server": "nginx",
+    "Strict-Transport-Security": "max-age=31536000",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY"
+  },
+  "history_status_codes": [],
+  "label": "img_blue_lock_lo",
+  "status_code": 200,
+  "url": "https://gsmg.io/img/blue_lock_lo.png"
+}

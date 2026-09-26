@@ -1,0 +1,59 @@
+{
+  "operation": "prefix giveit / give it",
+  "base_object_count": 21,
+  "candidate_count": 252,
+  "sha256_target_hits": [],
+  "oracle_hits": [],
+  "valid_padding_events": 12,
+  "valid_padding_examples": [
+    {
+      "label": "hint_best_chance:compact:prefix='giveit'",
+      "event": "small/direct/sha256"
+    },
+    {
+      "label": "hint_best_chance:compact:prefix='give it'",
+      "event": "small/direct/md5"
+    },
+    {
+      "label": "hint_same_day:exact:prefix='giveit '",
+      "event": "p32/hexdigest/sha256"
+    },
+    {
+      "label": "hint_same_day:lower:prefix='giveit '",
+      "event": "p32/hexdigest/sha256"
+    },
+    {
+      "label": "hint_same_day:spaced:prefix='giveit '",
+      "event": "p32/hexdigest/sha256"
+    },
+    {
+      "label": "hint_not_actual_prize:exact:prefix='giveit '",
+      "event": "p32/hexdigest/sha256"
+    },
+    {
+      "label": "hint_not_actual_prize:lower:prefix='giveit '",
+      "event": "p32/hexdigest/sha256"
+    },
+    {
+      "label": "hint_not_actual_prize:spaced:prefix='giveit '",
+      "event": "p32/hexdigest/sha256"
+    },
+    {
+      "label": "secondanswer:exact:prefix='giveit'",
+      "event": "p32/direct/sha256"
+    },
+    {
+      "label": "secondanswer:lower:prefix='giveit'",
+      "event": "p32/direct/sha256"
+    },
+    {
+      "label": "secondanswer:compact:prefix='giveit'",
+      "event": "p32/direct/sha256"
+    },
+    {
+      "label": "secondanswer:spaced:prefix='giveit'",
+      "event": "p32/direct/sha256"
+    }
+  ],
+  "status": "NO_MATCH"
+}

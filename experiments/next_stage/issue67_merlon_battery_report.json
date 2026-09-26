@@ -1,0 +1,36 @@
+{
+  "attachment_sha256": "e7c1aa344dec3985207d37aaf5662476a7b5539e1e1efe5e0c2fc31c750f1594",
+  "crop": {
+    "x": 118,
+    "y": 118,
+    "size": 560,
+    "modules": 14,
+    "module_size": 40
+  },
+  "grid": [
+    "RRRRWRRWRRRRRR",
+    "WWWWWWWWWWWWWW",
+    "RWRRRRRRRRRRWR",
+    "RRRKKKKKKKKRRR",
+    "WWWKKKKKKKKWWW",
+    "WWWKKKKKKKKWWW",
+    "RRRKKKKKKKKRRR",
+    "RWWKKKKKKKKWWW",
+    "WWWKKKKKKKKWWW",
+    "RWRKKKKKKKKRWR",
+    "RWRKKKKKKKKWWW",
+    "RWRRRRRRRRRWWW",
+    "WWRRWWWWWWRRWR",
+    "RRRRRRRRRRRRRR"
+  ],
+  "symbol_counts": {
+    "R": 72,
+    "W": 60,
+    "K": 64
+  },
+  "candidate_count": 300,
+  "valid_padding_events": 30,
+  "hits": [],
+  "direct_target_hits": [],
+  "interpretation": "Attachment-local direct encodings only; no canonical-grid claim."
+}

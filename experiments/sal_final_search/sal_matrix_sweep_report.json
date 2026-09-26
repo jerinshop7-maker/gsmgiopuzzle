@@ -1,0 +1,164 @@
+{
+  "attempts": 765,
+  "decryptions": 6120,
+  "valid_paddings": [
+    {
+      "family": "LEAD91/bifid9/keepPval/3x11/fwd/cols/raw",
+      "cand": "121313131481015191617",
+      "info": {
+        "valid_padding": [
+          "p32/direct/md5"
+        ]
+      }
+    },
+    {
+      "family": "LEAD91/bifid9/keepPval/3x11/rev/cols/raw",
+      "cand": "171619151081413131312",
+      "info": {
+        "valid_padding": [
+          "small/hexdigest/sha256"
+        ]
+      }
+    },
+    {
+      "family": "LEAD91/bifid9/Pfull-idx1-keep/3x8/rev/rows/mod10",
+      "cand": "896",
+      "info": {
+        "valid_padding": [
+          "small/hexdigest/sha256"
+        ]
+      }
+    },
+    {
+      "family": "TAIL570/bifid9/plain/6x95/rev/rows/mod10",
+      "cand": "437977",
+      "info": {
+        "valid_padding": [
+          "small/hexdigest/md5"
+        ]
+      }
+    },
+    {
+      "family": "TAIL570/bifid9/plain/15x38/rev/cols/raw",
+      "cand": "7365686348606752626961755767837767696873566475537056686073556566607373525163",
+      "info": {
+        "valid_padding": [
+          "small/direct/sha256"
+        ]
+      }
+    },
+    {
+      "family": "TAIL570/bifid9/P2357-idx0-zero/2x285/fwd/rows/mod10",
+      "cand": "44",
+      "info": {
+        "valid_padding": [
+          "small/direct/sha256"
+        ]
+      }
+    },
+    {
+      "family": "TAIL570/a1/plain/10x57/fwd/cols/mod10",
+      "cand": "566040171522227642647977225512087873063679340881530938888",
+      "info": {
+        "valid_padding": [
+          "small/direct/sha256"
+        ]
+      }
+    },
+    {
+      "family": "TAIL570/a1/plain/19x30/fwd/rows/csv",
+      "cand": "139,158,151,134,170,151,141,187,175,165,195,148,185,160,173,177,140,171,159",
+      "info": {
+        "valid_padding": [
+          "p32/direct/md5"
+        ]
+      }
+    },
+    {
+      "family": "TAIL570/a1/plain/19x30/rev/cols/csv",
+      "cand": "97,98,108,114,119,112,80,91,112,101,103,115,101,104,113,84,93,120,102,92,104,103",
+      "info": {
+        "valid_padding": [
+          "small/direct/sha256"
+        ]
+      }
+    },
+    {
+      "family": "TAIL570/a1/zeroPval/6x95/fwd/rows/csv",
+      "cand": "230,232,270,373,297,329",
+      "info": {
+        "valid_padding": [
+          "small/direct/md5"
+        ]
+      }
+    },
+    {
+      "family": "TAIL570/a1/zeroPval/19x30/fwd/cols/csv",
+      "cand": "42,40,72,89,23,56,38,79,51,40,35,65,83,51,40,70,69,47,74,53,72,70,51,52,55,64,58",
+      "info": {
+        "valid_padding": [
+          "p32/direct/sha256"
+        ]
+      }
+    },
+    {
+      "family": "TAIL570/a1/Pfull-idx1-zero/2x285/rev/rows/csv",
+      "cand": "1348,1181",
+      "info": {
+        "valid_padding": [
+          "small/direct/sha256"
+        ]
+      }
+    },
+    {
+      "family": "TAIL570/a1/Pfull-idx1-zero/3x190/rev/rows/raw",
+      "cand": "885896748",
+      "info": {
+        "valid_padding": [
+          "p32/direct/sha256"
+        ]
+      }
+    },
+    {
+      "family": "TAIL570/a1/P2357-idx0-keep/2x2/fwd/rows/csv",
+      "cand": "9,12",
+      "info": {
+        "valid_padding": [
+          "small/direct/md5"
+        ]
+      }
+    },
+    {
+      "family": "TAIL570/a1/P2357-idx0-zero/2x285/fwd/rows/csv",
+      "cand": "1465,1593",
+      "info": {
+        "valid_padding": [
+          "small/hexdigest/md5"
+        ]
+      }
+    },
+    {
+      "family": "TAIL570/a1/P2357-idx0-zero/10x57/fwd/rows/mod10",
+      "cand": "9460666100",
+      "info": {
+        "valid_padding": [
+          "p32/direct/md5"
+        ]
+      }
+    },
+    {
+      "family": "TAIL570/a1/P2357-idx0-zero/10x57/rev/cols/raw",
+      "cand": "48586868534950536551584850445359474653564043676867487042416555427247574947545652",
+      "info": {
+        "valid_padding": [
+          "small/hexdigest/md5"
+        ]
+      }
+    }
+  ],
+  "matches": [],
+  "families": {},
+  "door_checks": 17,
+  "door_hits": [],
+  "door_sample": []
+}

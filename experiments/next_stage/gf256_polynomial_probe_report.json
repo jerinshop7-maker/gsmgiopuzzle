@@ -1,0 +1,187 @@
+{
+  "polynomial_count": 30,
+  "polynomials": [
+    "0x11b",
+    "0x11d",
+    "0x12b",
+    "0x12d",
+    "0x139",
+    "0x13f",
+    "0x14d",
+    "0x15f",
+    "0x163",
+    "0x165",
+    "0x169",
+    "0x171",
+    "0x177",
+    "0x17b",
+    "0x187",
+    "0x18b",
+    "0x18d",
+    "0x19f",
+    "0x1a3",
+    "0x1a9",
+    "0x1b1",
+    "0x1bd",
+    "0x1c3",
+    "0x1cf",
+    "0x1d7",
+    "0x1dd",
+    "0x1e7",
+    "0x1f3",
+    "0x1f5",
+    "0x1f9"
+  ],
+  "hot_order": [
+    "00",
+    "0f",
+    "0c",
+    "fc",
+    "02",
+    "04",
+    "1b"
+  ],
+  "best": [
+    {
+      "poly": "0x11b",
+      "level": 3,
+      "transform": "double_sha256",
+      "prefix_bytes": 2,
+      "h160": "a955a042e800556fdeea1eb9cc0b80a196cf76a5"
+    },
+    {
+      "poly": "0x1f9",
+      "level": 6,
+      "transform": "sha256",
+      "prefix_bytes": 1,
+      "h160": "a9e6619acb365e97e7ae5600002810845cefb9b4"
+    },
+    {
+      "poly": "0x187",
+      "level": 0,
+      "transform": "double_sha256",
+      "prefix_bytes": 1,
+      "h160": "a9ab4e5419abdc9e2564ed59d21ff7b2ec055718"
+    },
+    {
+      "poly": "0x1f9",
+      "level": 0,
+      "transform": "sha256",
+      "prefix_bytes": 0,
+      "h160": "0dfe8e0cc26d457eb2042026e4d29c58ce7c1b81"
+    },
+    {
+      "poly": "0x1f9",
+      "level": 0,
+      "transform": "double_sha256",
+      "prefix_bytes": 0,
+      "h160": "cd24889b3dceb14a05f628e0ab890d4e48be4eba"
+    },
+    {
+      "poly": "0x1f9",
+      "level": 1,
+      "transform": "sha256",
+      "prefix_bytes": 0,
+      "h160": "675791d03b8750abd1aa24fdc2bf6356b853f583"
+    },
+    {
+      "poly": "0x1f9",
+      "level": 1,
+      "transform": "double_sha256",
+      "prefix_bytes": 0,
+      "h160": "eb67a378088315a81430116ea797f2cf01bdb6be"
+    },
+    {
+      "poly": "0x1f9",
+      "level": 2,
+      "transform": "sha256",
+      "prefix_bytes": 0,
+      "h160": "710b7f27ea63ec2c0c49d736a93f91629186853f"
+    },
+    {
+      "poly": "0x1f9",
+      "level": 2,
+      "transform": "double_sha256",
+      "prefix_bytes": 0,
+      "h160": "3f14e1d0fc4ff90aaf9631471059af86f777979c"
+    },
+    {
+      "poly": "0x1f9",
+      "level": 3,
+      "transform": "sha256",
+      "prefix_bytes": 0,
+      "h160": "604c0069f7e69bdda228a4547f22af8193c03fef"
+    },
+    {
+      "poly": "0x1f9",
+      "level": 3,
+      "transform": "double_sha256",
+      "prefix_bytes": 0,
+      "h160": "dc859736ff16a7b90825384889e17912aa55cb64"
+    },
+    {
+      "poly": "0x1f9",
+      "level": 4,
+      "transform": "sha256",
+      "prefix_bytes": 0,
+      "h160": "edee672ffb4a556085f2aa6c6afd887ddc5f5b56"
+    },
+    {
+      "poly": "0x1f9",
+      "level": 4,
+      "transform": "double_sha256",
+      "prefix_bytes": 0,
+      "h160": "8686ccf2c41320f0408125a22b5f1f704e420b49"
+    },
+    {
+      "poly": "0x1f9",
+      "level": 5,
+      "transform": "sha256",
+      "prefix_bytes": 0,
+      "h160": "49be779139e57c17a44fc9380fda17b740ee33c0"
+    },
+    {
+      "poly": "0x1f9",
+      "level": 5,
+      "transform": "double_sha256",
+      "prefix_bytes": 0,
+      "h160": "1a836a275aa41ed04eda6f81481b952d1f7c05ba"
+    },
+    {
+      "poly": "0x1f9",
+      "level": 6,
+      "transform": "double_sha256",
+      "prefix_bytes": 0,
+      "h160": "aceae01f220137e027dbb48e9d06e2a3d96fc0d8"
+    },
+    {
+      "poly": "0x1f5",
+      "level": 0,
+      "transform": "sha256",
+      "prefix_bytes": 0,
+      "h160": "292875fe8206a1c580add6bb28fb625a19678d6a"
+    },
+    {
+      "poly": "0x1f5",
+      "level": 0,
+      "transform": "double_sha256",
+      "prefix_bytes": 0,
+      "h160": "0317809e0ffdf7973f37de3e30b7aa3da0f4e20d"
+    },
+    {
+      "poly": "0x1f5",
+      "level": 1,
+      "transform": "sha256",
+      "prefix_bytes": 0,
+      "h160": "1141bf8160131ea230f057c3f56781fbf3572f8e"
+    },
+    {
+      "poly": "0x1f5",
+      "level": 1,
+      "transform": "double_sha256",
+      "prefix_bytes": 0,
+      "h160": "55eda301cda9dbbee3c96bc3738f35ef30145251"
+    }
+  ],
+  "exact_matches": []
+}

@@ -1,0 +1,11 @@
+{
+  "decoded_sha256": "0c5d984f90e9baefc09f1d3888e62acbd101f9b0194887e2ae88fc6c9967745e",
+  "selector_sha256": "70edc3a3330f4640b7bb9769bce72c0c7e653f1ed5107efa3bbbe03558469a6f",
+  "payload_sha256": "1740b55ba5d224e86f61054bacd7caf90a8cf2c4418535c67d092903c4509f35",
+  "selector_len": 256,
+  "payload_len": 256,
+  "candidate_count": 304,
+  "valid_padding_events": 6,
+  "target_matches": [],
+  "third_door_matches": []
+}

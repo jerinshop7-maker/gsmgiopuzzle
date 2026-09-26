@@ -1,0 +1,18 @@
+{
+  "decoded_sha256": "0c5d984f90e9baefc09f1d3888e62acbd101f9b0194887e2ae88fc6c9967745e",
+  "even256_sha256": "1740b55ba5d224e86f61054bacd7caf90a8cf2c4418535c67d092903c4509f35",
+  "streams": {
+    "even256": {
+      "length": 256,
+      "alphabet": "ABCDEFGHKLMNPQRSTUVWXYZ"
+    },
+    "odd285": {
+      "length": 285,
+      "alphabet": "BCDE"
+    }
+  },
+  "candidate_count": 4608,
+  "valid_padding_events": 146,
+  "target_matches": [],
+  "third_door_matches": []
+}

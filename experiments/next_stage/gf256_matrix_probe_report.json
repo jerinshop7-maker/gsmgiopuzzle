@@ -1,0 +1,46 @@
+{
+  "polynomial_count": 30,
+  "aes_order_count": 2520,
+  "tested_matrix_inputs": 44,
+  "tested_order_field_pairs": 2549,
+  "reported_prefix_at_least_2": 2,
+  "top": [
+    {
+      "poly": "0x11b",
+      "order": [
+        "00",
+        "0f",
+        "0c",
+        "fc",
+        "02",
+        "04",
+        "1b"
+      ],
+      "level": 3,
+      "source": "serialize/R",
+      "transform": "double_sha256",
+      "prefix_bytes": 2,
+      "h160": "a955a042e800556fdeea1eb9cc0b80a196cf76a5",
+      "input_sha256": "ae654a2f37a371d4c35358d5d9ea0aa14358ddd04027f58172399a98dc7b5887"
+    },
+    {
+      "poly": "0x11b",
+      "order": [
+        "1b",
+        "00",
+        "04",
+        "02",
+        "0f",
+        "0c",
+        "fc"
+      ],
+      "level": 3,
+      "source": "matrix/sumsum/rows/r1c0",
+      "transform": "double_sha256",
+      "prefix_bytes": 2,
+      "h160": "a955bfa2fec2cd3377c791fc9093a3487a613583",
+      "input_sha256": "6270bd1aa5ae358c2b3af1cc2779ca7d1c581a16793956b063d2a3deb94b6360"
+    }
+  ],
+  "exact_or_planted_matches": []
+}

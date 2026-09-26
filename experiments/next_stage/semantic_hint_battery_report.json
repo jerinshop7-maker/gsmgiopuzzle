@@ -1,0 +1,133 @@
+{
+  "phrase_sha256": {
+    "Happy new year! Make the best of everything. Oh, and here's a tiny hint <3.": "a44ab142c3977e3eb84a79001c17d027621ebd22be5efa9c4bdd325bdc7ab93b",
+    "make the best of everything": "a0a92cc2211a6e7c8f050c34c56a07b6f5079d15e1c3d1652f9138c30ab35ff2",
+    "best of everything": "8ee0558246999c9e952a7e5de7140f241a93525f3b2ed272cd7bed65fc5a517b",
+    "tiny hint": "7f83fd9eb5e5977202331624551c00b1713d62d11bb2f1708c9f457bc40f32f4",
+    "secret in my head": "89048a80f960696ad0ec84cef924c632d3c4d8b64cd54edfcc9fe0d16691b84d",
+    "secret in your head": "f5b7b625540e8396d236d1742f1df66df83cf63af1887b41d83ef256fa735309",
+    "share with the planet": "39692d9b5b55b21e815ca3f9447365b98a36ed15ae091eed1ca3dc9d8a47329a",
+    "for those who can understand what I meant": "d56b535082e1956320fd898230042a36eda5ecbad2ceff7139b8b6ef1e91bf46",
+    "close friends": "91c1ef8bd6421958c748014edc270d0741dd41f651836939582ce015b16e9e17",
+    "best chance of solving it": "5dc220201bc89452a2e49b1d2ea77d166fade734c1e9f2b059d1b1863003c614",
+    "the 5 btc was never the actual prize": "af1d6d40dc6bf0204876dcfc7ded53b4438b91b477219c104c25d31b26cb1ccc",
+    "theory of everything": "3fb06d49cb3c247cb1b7afbd7fd7efaa73175f4e341a63b49b83c168d8d0b1cf",
+    "the puzzle talks for me": "25125212a8cb603a136ec07be28eb1e59796425c6a639ef941433fc26d8bb94c",
+    "hardest part is done": "807f26bd25c5a0a973d42319e01c0418950599a8607ad08326aab94c7b28c928",
+    "same day": "02377f69888427a2de5b653e114f0ebb4d776fb1789004addcc17bcde3621328",
+    "very last step is a true giveaway": "8fde50f2b0a229a79491b27253b85eaa08c9d5343f73c6fb441f8d686333292a",
+    "in front of your eyes": "52028c471725e647bcc697a7bace952214c12eb1a62c69a357732bfd0fe3b0b2",
+    "matrixsumlist": "e7546e3076294907ed2a0ecaa9c33062f6e602b7c74c5aa5cc865df0ff345507",
+    "lastwordsbeforearchichoice": "77094e7a1591fb81379f1582cf88db5aa6ab8e77176a4d8428a1ff5decfd102d",
+    "thispassword": "74c1d7592daf4f89b0a7ba5e368bb59cc9e19c6a4ebb7f33cd8ccf8f3edacac0",
+    "yourlastcommand": "4c2b6d6bfb58ed3d8048130275644f48b79f8f41eb2b319df0b98b5743b7fc07",
+    "secondanswer": "08fb5a32836d95c1543014ab483f77d18211d6d1335765ae15912e09d4b0b683"
+  },
+  "candidate_count": 3724,
+  "valid_padding_events": 105,
+  "valid_padding_examples": [
+    {
+      "label": "phrase:secret in your head:form:secret in your head",
+      "candidate": "secret in your head",
+      "event": "small/direct/md5"
+    },
+    {
+      "label": "phrase:secret in your head:form:secretinyourhead",
+      "candidate": "secretinyourhead",
+      "event": "p32/hexdigest/sha256"
+    },
+    {
+      "label": "phrase:very last step is a true giveaway:form:verylaststepisatruegiveaway",
+      "candidate": "verylaststepisatruegiveaway",
+      "event": "small/direct/md5"
+    },
+    {
+      "label": "context:\"Happy new year! Make the best of everything. Oh, and here's a tiny hint <3.\"-gsmgio",
+      "candidate": "Happy new year! Make the best of everything. Oh, and here's a tiny hint <3.-gsmgio",
+      "event": "small/hexdigest/md5"
+    },
+    {
+      "label": "context:btc-'best chance of solving it'",
+      "candidate": "btc-best chance of solving it",
+      "event": "p32/direct/sha256"
+    },
+    {
+      "label": "context:'best of everything' btc",
+      "candidate": "best of everything btc",
+      "event": "small/direct/sha256"
+    },
+    {
+      "label": "context:btc:'best-chance-of-solving-it'",
+      "candidate": "btc:best-chance-of-solving-it",
+      "event": "p32/direct/sha256"
+    },
+    {
+      "label": "context:'best-of-everything'-gsmgio",
+      "candidate": "best-of-everything-gsmgio",
+      "event": "small/hexdigest/sha256"
+    },
+    {
+      "label": "context:5btc-'best-of-everything'",
+      "candidate": "5btc-best-of-everything",
+      "event": "small/hexdigest/sha256"
+    },
+    {
+      "label": "context:'best_chance_of_solving_it'5btc",
+      "candidate": "best_chance_of_solving_it5btc",
+      "event": "p32/direct/sha256"
+    },
+    {
+      "label": "context:5btc'best_chance_of_solving_it'",
+      "candidate": "5btcbest_chance_of_solving_it",
+      "event": "small/hexdigest/sha256"
+    },
+    {
+      "label": "context:5btc 'best_chance_of_solving_it'",
+      "candidate": "5btc best_chance_of_solving_it",
+      "event": "p32/direct/md5"
+    },
+    {
+      "label": "context:privatekey'best_of_everything'",
+      "candidate": "privatekeybest_of_everything",
+      "event": "p32/hexdigest/sha256"
+    },
+    {
+      "label": "context:btc'bestchanceofsolvingit'",
+      "candidate": "btcbestchanceofsolvingit",
+      "event": "small/direct/sha256"
+    },
+    {
+      "label": "context:'bestofeverything' privatekey",
+      "candidate": "bestofeverything privatekey",
+      "event": "p32/hexdigest/sha256"
+    },
+    {
+      "label": "context:'close_friends' gsmgio",
+      "candidate": "close_friends gsmgio",
+      "event": "p32/direct/md5"
+    },
+    {
+      "label": "context:bitcoin'close_friends'",
+      "candidate": "bitcoinclose_friends",
+      "event": "p32/hexdigest/sha256"
+    },
+    {
+      "label": "context:5btc 'close_friends'",
+      "candidate": "5btc close_friends",
+      "event": "small/direct/md5"
+    },
+    {
+      "label": "context:'closefriends':gsmgio",
+      "candidate": "closefriends:gsmgio",
+      "event": "small/direct/sha256"
+    },
+    {
+      "label": "context:btc'closefriends'",
+      "candidate": "btcclosefriends",
+      "event": "small/hexdigest/md5"
+    }
+  ],
+  "hits": [],
+  "direct_target_hits": [],
+  "interpretation": "No hit falsifies only this explicit semantic candidate family; it does not falsify a human-context final answer in general."
+}

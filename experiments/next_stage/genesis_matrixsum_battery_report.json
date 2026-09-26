@@ -1,0 +1,18 @@
+{
+  "source": "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks",
+  "source_sha256": "a6d72baa3db900b03e70df880e503e9164013b4d9a470853edc115776323a098",
+  "prime_columns_1based": [
+    2,
+    3,
+    5,
+    7,
+    11,
+    13,
+    17,
+    19,
+    23
+  ],
+  "candidate_count": 4210,
+  "valid_padding_events": 114,
+  "hits": []
+}

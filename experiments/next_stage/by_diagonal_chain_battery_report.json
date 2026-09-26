@@ -1,0 +1,10 @@
+{
+  "diagonals": {
+    "0": "BYYBYB",
+    "1": "YYYYB"
+  },
+  "candidate_count": 202,
+  "valid_padding_events": 5,
+  "target_matches": [],
+  "third_door_matches": []
+}

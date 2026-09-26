@@ -1,0 +1,766 @@
+{
+  "oracle_blob": {
+    "len_b64": 128,
+    "salt": "3ab585348552415d"
+  },
+  "crypto_available": true,
+  "attempts": [
+    {
+      "id": "P2-1",
+      "stream": "LEAD91",
+      "map": "bifid9",
+      "rule": "keepPrimeVal",
+      "kept_len": 33,
+      "candidate": "235572277773333535557377552333727",
+      "sha_pw": "fc4f765b397eef50...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-2",
+      "stream": "LEAD91",
+      "map": "bifid9",
+      "rule": "keepPrimeVal",
+      "kept_len": 33,
+      "candidate": "727333255773755535333377772275532",
+      "sha_pw": "39340611ba6f46d8...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-3",
+      "stream": "LEAD91",
+      "map": "bifid9",
+      "rule": "keepPrimeVal",
+      "kept_len": 33,
+      "candidate": "544551",
+      "sha_pw": "d5419bb85ce2bb76...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-4",
+      "stream": "LEAD91",
+      "map": "bifid9",
+      "rule": "keepPrimeVal",
+      "kept_len": 33,
+      "candidate": "121313131481015191617",
+      "sha_pw": "6a2864b8895f0f6f...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-5",
+      "stream": "LEAD91",
+      "map": "bifid9",
+      "rule": "keepPrimeVal",
+      "kept_len": 33,
+      "candidate": "451",
+      "sha_pw": "caa1aedb2a6ce96b...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-6",
+      "stream": "LEAD91",
+      "map": "bifid9",
+      "rule": "zeroPrimeVal",
+      "kept_len": 58,
+      "candidate": "0111141614816164166616116446144181041601111666160111666816",
+      "sha_pw": "54cdd6e1838029d8...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-7",
+      "stream": "LEAD91",
+      "map": "bifid9",
+      "rule": "zeroPrimeVal",
+      "kept_len": 58,
+      "candidate": "6186661110616661111061401814416446116166614616184161411110",
+      "sha_pw": "298016d1a1aec2c6...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-8",
+      "stream": "LEAD91",
+      "map": "bifid9",
+      "rule": "zeroPrimeVal",
+      "kept_len": 58,
+      "candidate": "9594",
+      "sha_pw": "9db3ff1452356acd...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-9",
+      "stream": "LEAD91",
+      "map": "bifid9",
+      "rule": "zeroPrimeVal",
+      "kept_len": 58,
+      "candidate": "45292457749272121077126272712101277",
+      "sha_pw": "2684a2e9aa2d257a...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-10",
+      "stream": "LEAD91",
+      "map": "bifid9",
+      "rule": "zeroPrimeVal",
+      "kept_len": 58,
+      "candidate": "54",
+      "sha_pw": "2fca346db6561871...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-11",
+      "stream": "LEAD91",
+      "map": "bifid9",
+      "rule": "P2357:idx0:normal:keepPrime",
+      "kept_len": 4,
+      "candidate": "1234",
+      "sha_pw": "03ac674216f3e15c...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-12",
+      "stream": "LEAD91",
+      "map": "bifid9",
+      "rule": "P2357:idx1:normal:keepPrime",
+      "kept_len": 4,
+      "candidate": "1111",
+      "sha_pw": "0ffe1abd1a082153...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-13",
+      "stream": "LEAD91",
+      "map": "bifid9",
+      "rule": "Pfull:idx0:normal:keepPrime",
+      "kept_len": 24,
+      "candidate": "123461111664410557710371",
+      "sha_pw": "eee2c4b3d541c34e...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-14",
+      "stream": "LEAD91",
+      "map": "bifid9",
+      "rule": "Pfull:idx1:normal:keepPrime",
+      "kept_len": 24,
+      "candidate": "111117864714433355656128",
+      "sha_pw": "0c3ffce1e3b1db1c...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-15",
+      "stream": "LEAD91",
+      "map": "bifid9",
+      "rule": "P2357:idx0:reversed:keepPrime",
+      "kept_len": 4,
+      "candidate": "8667",
+      "sha_pw": "6ecfcccd10de676b...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-16",
+      "stream": "LEAD91",
+      "map": "bifid9",
+      "rule": "P2357:idx1:reversed:keepPrime",
+      "kept_len": 4,
+      "candidate": "1861",
+      "sha_pw": "4eec6372c08f87b2...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-17",
+      "stream": "LEAD91",
+      "map": "bifid9",
+      "rule": "Pfull:idx0:reversed:keepPrime",
+      "kept_len": 24,
+      "candidate": "866733017755101466111641",
+      "sha_pw": "5148d68ca2f5f8a4...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-18",
+      "stream": "LEAD91",
+      "map": "bifid9",
+      "rule": "Pfull:idx1:reversed:keepPrime",
+      "kept_len": 24,
+      "candidate": "186131567150648611666751",
+      "sha_pw": "30e877bb1e3b53cd...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-19",
+      "stream": "LEAD91",
+      "map": "a1",
+      "rule": "keepPrimeVal",
+      "kept_len": 61,
+      "candidate": "2222332572252525775752522755222253223337225577532532277255525",
+      "sha_pw": "16c88a6dc6f881de...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-20",
+      "stream": "LEAD91",
+      "map": "a1",
+      "rule": "keepPrimeVal",
+      "kept_len": 61,
+      "candidate": "5255527722352357755227333223522225572252575775252522752332222",
+      "sha_pw": "9d816182218acc0e...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-21",
+      "stream": "LEAD91",
+      "map": "a1",
+      "rule": "zeroPrimeVal",
+      "kept_len": 30,
+      "candidate": "496898198888861648664664966691",
+      "sha_pw": "84b7bf977b1b8a49...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-22",
+      "stream": "LEAD91",
+      "map": "a1",
+      "rule": "zeroPrimeVal",
+      "kept_len": 30,
+      "candidate": "196669466466846168888891898694",
+      "sha_pw": "2a2200a47f88c494...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-23",
+      "stream": "LEAD91",
+      "map": "a1",
+      "rule": "zeroPrimeVal",
+      "kept_len": 30,
+      "candidate": "10187",
+      "sha_pw": "9e18318308013da2...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-24",
+      "stream": "LEAD91",
+      "map": "a1",
+      "rule": "zeroPrimeVal",
+      "kept_len": 30,
+      "candidate": "1013141415127151217141414152",
+      "sha_pw": "8d6121e67efed0c1...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-25",
+      "stream": "LEAD91",
+      "map": "a1",
+      "rule": "zeroPrimeVal",
+      "kept_len": 30,
+      "candidate": "17",
+      "sha_pw": "4523540f1504cd17...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-26",
+      "stream": "LEAD91",
+      "map": "a1",
+      "rule": "zeroPrimeVal",
+      "kept_len": 30,
+      "candidate": "706157",
+      "sha_pw": "384c2db2bc9487fd...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-27",
+      "stream": "LEAD91",
+      "map": "a1",
+      "rule": "zeroPrimeVal",
+      "kept_len": 30,
+      "candidate": "16232018192011232315",
+      "sha_pw": "2cc21b14e62f6c3f...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-28",
+      "stream": "LEAD91",
+      "map": "a1",
+      "rule": "zeroPrimeVal",
+      "kept_len": 30,
+      "candidate": "017",
+      "sha_pw": "9309f67fd6480663...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-29",
+      "stream": "LEAD91",
+      "map": "a1",
+      "rule": "zeroPrimeVal",
+      "kept_len": 30,
+      "candidate": "4442333237",
+      "sha_pw": "bc7b429854063086...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-30",
+      "stream": "LEAD91",
+      "map": "a1",
+      "rule": "zeroPrimeVal",
+      "kept_len": 30,
+      "candidate": "283625343629",
+      "sha_pw": "1dd6919808198285...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-31",
+      "stream": "LEAD91",
+      "map": "a1",
+      "rule": "zeroPrimeVal",
+      "kept_len": 30,
+      "candidate": "42327",
+      "sha_pw": "cd0879a695e121b5...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-32",
+      "stream": "LEAD91",
+      "map": "a1",
+      "rule": "P2357:idx0:normal:keepPrime",
+      "kept_len": 4,
+      "candidate": "2968",
+      "sha_pw": "46a4efea2592cf8a...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-33",
+      "stream": "LEAD91",
+      "map": "a1",
+      "rule": "P2357:idx1:normal:keepPrime",
+      "kept_len": 4,
+      "candidate": "2222",
+      "sha_pw": "edee29f882543b95...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-34",
+      "stream": "LEAD91",
+      "map": "a1",
+      "rule": "Pfull:idx0:normal:keepPrime",
+      "kept_len": 24,
+      "candidate": "296852222558824337724672",
+      "sha_pw": "347ab9f2cf1068c6...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-35",
+      "stream": "LEAD91",
+      "map": "a1",
+      "rule": "Pfull:idx1:normal:keepPrime",
+      "kept_len": 24,
+      "candidate": "222227158728866633535291",
+      "sha_pw": "2c71a4b3b456d7f0...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-36",
+      "stream": "LEAD91",
+      "map": "a1",
+      "rule": "P2357:idx0:reversed:keepPrime",
+      "kept_len": 4,
+      "candidate": "1557",
+      "sha_pw": "9e2d999a438d4dc3...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-37",
+      "stream": "LEAD91",
+      "map": "a1",
+      "rule": "P2357:idx1:reversed:keepPrime",
+      "kept_len": 4,
+      "candidate": "2152",
+      "sha_pw": "7e8250dfc4ecb839...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-38",
+      "stream": "LEAD91",
+      "map": "a1",
+      "rule": "Pfull:idx0:reversed:keepPrime",
+      "kept_len": 24,
+      "candidate": "155766427733242855222582",
+      "sha_pw": "434d058d4bc6bc0c...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-39",
+      "stream": "LEAD91",
+      "map": "a1",
+      "rule": "Pfull:idx1:reversed:keepPrime",
+      "kept_len": 24,
+      "candidate": "215262357234581522555732",
+      "sha_pw": "4de73be8341f92fa...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-40",
+      "stream": "TAIL570",
+      "map": "bifid9",
+      "rule": "keepPrimeVal",
+      "kept_len": 291,
+      "candidate": "478445407",
+      "sha_pw": "f395683df7d34323...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-41",
+      "stream": "TAIL570",
+      "map": "bifid9",
+      "rule": "keepPrimeVal",
+      "kept_len": 291,
+      "candidate": "857",
+      "sha_pw": "22cdd352056c42ac...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-42",
+      "stream": "TAIL570",
+      "map": "bifid9",
+      "rule": "zeroPrimeVal",
+      "kept_len": 279,
+      "candidate": "420369338",
+      "sha_pw": "862be07e9d34ec5a...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-43",
+      "stream": "TAIL570",
+      "map": "bifid9",
+      "rule": "zeroPrimeVal",
+      "kept_len": 279,
+      "candidate": "098",
+      "sha_pw": "35e1d1aeed3f7179...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-44",
+      "stream": "TAIL570",
+      "map": "bifid9",
+      "rule": "zeroPrimeVal",
+      "kept_len": 279,
+      "candidate": "125163132119115135104115119",
+      "sha_pw": "89cf9242f3deeb84...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-45",
+      "stream": "TAIL570",
+      "map": "bifid9",
+      "rule": "zeroPrimeVal",
+      "kept_len": 279,
+      "candidate": "36544035323935284139382756394548302837382829195437262931313543",
+      "sha_pw": "e09e769d4287804b...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-46",
+      "stream": "TAIL570",
+      "map": "bifid9",
+      "rule": "zeroPrimeVal",
+      "kept_len": 279,
+      "candidate": "532955459",
+      "sha_pw": "b42d288e34631bd0...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-47",
+      "stream": "TAIL570",
+      "map": "bifid9",
+      "rule": "P2357:idx0:normal:keepPrime",
+      "kept_len": 4,
+      "candidate": "6076",
+      "sha_pw": "d0f25b8abbbe4b1c...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-48",
+      "stream": "TAIL570",
+      "map": "bifid9",
+      "rule": "P2357:idx1:normal:keepPrime",
+      "kept_len": 4,
+      "candidate": "8676",
+      "sha_pw": "6ef9dbf000318e6f...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-49",
+      "stream": "TAIL570",
+      "map": "bifid9",
+      "rule": "P2357:idx0:reversed:keepPrime",
+      "kept_len": 4,
+      "candidate": "4243",
+      "sha_pw": "4bf983753a3d8b68...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-50",
+      "stream": "TAIL570",
+      "map": "bifid9",
+      "rule": "P2357:idx1:reversed:keepPrime",
+      "kept_len": 4,
+      "candidate": "2428",
+      "sha_pw": "3d93ec274ab8ebaa...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-51",
+      "stream": "TAIL570",
+      "map": "a1",
+      "rule": "P2357:idx0:normal:keepPrime",
+      "kept_len": 4,
+      "candidate": "5475",
+      "sha_pw": "5ca1f7424c1da521...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-52",
+      "stream": "TAIL570",
+      "map": "a1",
+      "rule": "P2357:idx1:normal:keepPrime",
+      "kept_len": 4,
+      "candidate": "1575",
+      "sha_pw": "679b0ecadd205e51...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-53",
+      "stream": "TAIL570",
+      "map": "a1",
+      "rule": "P2357:idx0:reversed:keepPrime",
+      "kept_len": 4,
+      "candidate": "8986",
+      "sha_pw": "7e162e2951e5e5cd...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "P2-54",
+      "stream": "TAIL570",
+      "map": "a1",
+      "rule": "P2357:idx1:reversed:keepPrime",
+      "kept_len": 4,
+      "candidate": "9891",
+      "sha_pw": "fbf0c0d5f478d864...",
+      "decrypt": {
+        "sha256": "no_padding",
+        "md5": "no_padding"
+      },
+      "rank": "NO_MATCH"
+    }
+  ],
+  "matches": []
+}

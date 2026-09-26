@@ -1,0 +1,8 @@
+{
+  "decoded_sha256": "0c5d984f90e9baefc09f1d3888e62acbd101f9b0194887e2ae88fc6c9967745e",
+  "selector_len": 256,
+  "candidate_count": 24432,
+  "valid_padding_events": 745,
+  "target_matches": [],
+  "third_door_matches": []
+}

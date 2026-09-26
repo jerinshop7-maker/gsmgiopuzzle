@@ -1,0 +1,262 @@
+{
+  "source": "experiments/004-cosmic/cosmic_decrypted.bin",
+  "source_size": 1327,
+  "source_sha256": "4f7a1e4efe4bf6c5581e32505c019657cb7b030e90232d33f011aca6a5e9c081",
+  "block_size": 32,
+  "block_count": 39,
+  "ignored_tail_bytes": 79,
+  "construction": "block[16:32] || BE32(index) -> version-0 P2PKH Base58Check",
+  "target_address": "1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe",
+  "target_match": null,
+  "published_witnesses": {
+    "1Hby7BYWaQmuUE57761xrPjJ9rN3d58V8Y": {
+      "expected_index": 10,
+      "observed_index": 10
+    },
+    "1Bwq9PKdsrafTFhzDeFzBBk9NF5N8NZCw9": {
+      "expected_index": 4,
+      "observed_index": 4
+    }
+  },
+  "prefix_counts": {
+    "1H": 3,
+    "1B": 1,
+    "1G": 2
+  },
+  "rows": [
+    {
+      "index": 0,
+      "block_sha256": "479e4ba39bbb7690072734f055df26fef351ff69534bf47ea74084d277b5f191",
+      "payload_hex": "d12f8b341cb879dd769ade1f8d399d4000000000",
+      "address": "1L55BVVMXeDqxTTHTPKRm9FJ4dJtXRC5L8"
+    },
+    {
+      "index": 1,
+      "block_sha256": "0f202afc874f9d28413017d29f63a16a36a27a256bf7322cbce4caf63230870d",
+      "payload_hex": "9205a339dbf3fc5a1c6d0a8e6793438a00000001",
+      "address": "1EK6QiT9N2E6YeeBaFixVUwr1rnd3k6CgN"
+    },
+    {
+      "index": 2,
+      "block_sha256": "0a34b9c21dd282629d7c18e457c324a0a804a1d77bcb0adb84d2c90fcccf78a1",
+      "payload_hex": "9ccfe92a60ad7cc63d43391570c4958500000002",
+      "address": "1FJ9Upe8jAbzEdLXAm4fvpvfZT3dSGbbJb"
+    },
+    {
+      "index": 3,
+      "block_sha256": "77b1cd7ab4974d81a24d601b9b6074f7147af1762322d35015f749f203424e4e",
+      "payload_hex": "f7f9c3927894563cd14f09dc69a203d300000003",
+      "address": "1PcB7HacFjc2y8NkgvxVfW4xZ8HuTuPkTM"
+    },
+    {
+      "index": 4,
+      "block_sha256": "4d2ff966c97c311dbe873824b93929b1d34493f67d24920e56c9119f6cc1129c",
+      "payload_hex": "780fe8a960ccad1c8cbb98ecdc73e53600000004",
+      "address": "1Bwq9PKdsrafTFhzDeFzBBk9NF5N8NZCw9"
+    },
+    {
+      "index": 5,
+      "block_sha256": "a521ae4a72f28cd112c9defd698b376216febd2cf7b1c30736b8a7b60b65bcf6",
+      "payload_hex": "6aa8b5181216faf62481525ddd73546d00000005",
+      "address": "1AixjL7h7MCZ1zzBHDigaitfqPCFE6LcZH"
+    },
+    {
+      "index": 6,
+      "block_sha256": "e80c0354970913bb978dda9ef115e1990af64fe948bbc2a0ee8b958de0b9c4e9",
+      "payload_hex": "1c1b434b2bd6efb3c51e53023a7817ba00000006",
+      "address": "13ZcadSrLh3bR7fmddMtnqz3JEyT6XRykh"
+    },
+    {
+      "index": 7,
+      "block_sha256": "9d95893fe08ba4275bfa8d5b766f6f1e9a9c43e9cce96ee1c3c1c48c686b54fd",
+      "payload_hex": "1d0a6901ff148d623621f124ebc7f52400000007",
+      "address": "13eZ4snJUt9oxZvR3sCQ8ueQwihqjfYVGP"
+    },
+    {
+      "index": 8,
+      "block_sha256": "efe346b763e14d85fdeaea3b4f8b6dd6365b03b0d8ecf979e61310b45753e813",
+      "payload_hex": "5ace641ba1246b603f70ce228549c4f500000008",
+      "address": "19H94ZqDaqEAYvRfpk1uprEXyFzEESh75N"
+    },
+    {
+      "index": 9,
+      "block_sha256": "93901dfb7db6881baa6fd7440e8a55f848b2157a8475465253bd3a40127f673e",
+      "payload_hex": "825aa517910db49091711c81762d2c6700000009",
+      "address": "1CtFS4DK6p1YiUwTmxKmGrAPYCKmCjYXYK"
+    },
+    {
+      "index": 10,
+      "block_sha256": "7e87c2d4b9a57066fba9839b1efeef5815d589bbf8418ae164bd64ecfa72d038",
+      "payload_hex": "b61efd9bbdb4cb9fab27db29383de2050000000a",
+      "address": "1Hby7BYWaQmuUE57761xrPjJ9rN3d58V8Y"
+    },
+    {
+      "index": 11,
+      "block_sha256": "c5a5f6a85d700d7dc2af7522df1dbc0d60906585877e2b9b9058a2a731c35878",
+      "payload_hex": "d7e337add8c0e4943fc5bb5504b6eafa0000000b",
+      "address": "1LgWUbLNDfSpPV3Aaz4KrQB4jNQou4yRQu"
+    },
+    {
+      "index": 12,
+      "block_sha256": "59ed85a28246fbcef545fba1e9537e3111f04f5c64d63dd3bf2e73de973f913e",
+      "payload_hex": "ce32c4477c2abc21904ab110e003fcf70000000c",
+      "address": "1KoH1rKU1bqoQLVs84zWHb2heYFmE1Cwya"
+    },
+    {
+      "index": 13,
+      "block_sha256": "56f3828f7098a51303ae85052330d4d143710db53a2fbfc14c9c77dabe865375",
+      "payload_hex": "85799e50690c05130288b8f11867a86c0000000d",
+      "address": "1DAkZi8ADwUtXrpGL7zDeg2jArgsvTRYxu"
+    },
+    {
+      "index": 14,
+      "block_sha256": "2f3e8991c0bb5070110e4f48984a7b419a05090b71c7da74b0d9640835d5135b",
+      "payload_hex": "8c074e8bede76da1f2eb14822c4359000000000e",
+      "address": "1DmQMYWKF7mC3R4LnUXPvVYBPyJMfzbLuR"
+    },
+    {
+      "index": 15,
+      "block_sha256": "bfca1c84f7c6cb8b84f086406a7f6622ca944eb551f66520d82c30dc083d47c0",
+      "payload_hex": "093341d335be44c58b1173ff60f822130000000f",
+      "address": "1qeV8na8YSAXF8sHuaawWwQJ3ENpA8VBp"
+    },
+    {
+      "index": 16,
+      "block_sha256": "d39d1461eb202591606a1ad25986811530c88550fd0c114b68744e88e7177c1a",
+      "payload_hex": "2880d161b1f23b67944809e09640504100000010",
+      "address": "14hAM6fMgZf1gY2xALyhxRkXxELHAqfRr3"
+    },
+    {
+      "index": 17,
+      "block_sha256": "c960c8b59f00ead8d544af6b557acaa61db6f2a317a3a621a2004b1ec5e635ae",
+      "payload_hex": "fa2cba2a58208e2cca0a22a2f3a6dbbb00000011",
+      "address": "1PooWfCLNap5W7zpWFqgLArAtdVJ5fokyg"
+    },
+    {
+      "index": 18,
+      "block_sha256": "6210d0090dd7eeaa6520f1a9250893e1c0fc3b2ef2ef1daf87bd9d8e5b7d8fdb",
+      "payload_hex": "48594aa9ff2d14f2800e9b5c69ffba1900000012",
+      "address": "17bYcuUu8e2YV4Hn4AiZbeYZJTBv8f4VxV"
+    },
+    {
+      "index": 19,
+      "block_sha256": "717ec466891160a3a1366d9525c8a04b76a13d70cf1da502aa05735673ff9395",
+      "payload_hex": "f1f5a3c758bfdee732454d8130f0f42c00000013",
+      "address": "1P4N7ahAN77SRe2xegQ9m13X3mToUh1Zxu"
+    },
+    {
+      "index": 20,
+      "block_sha256": "57c47493e97b36a5e129a58cba4c1493ddb1d40c4b91e2252e92b3c99709342f",
+      "payload_hex": "86730c9aaeb1b36a12df5962334f9c2900000014",
+      "address": "1DFuNU3aKmbLuvcueWFQ9xejMgMMjoCQZU"
+    },
+    {
+      "index": 21,
+      "block_sha256": "5c015defe84642056f1ed58bc39302078d566ad89642937b5d3698d85bd2a875",
+      "payload_hex": "313b30150fc30e742d29b114c3f2926300000015",
+      "address": "15VK1qpCJMupJFGdaAMVwPbaMUFtMj1UJ4"
+    },
+    {
+      "index": 22,
+      "block_sha256": "199b3b9940223e0d662048b9fa055633f35a964d6df82467fa6524c98af3c772",
+      "payload_hex": "c6c265441ee5ce2c6ebc69bf3d1a4dee00000016",
+      "address": "1K7wfpm8z2AfW6Zgag9hkNHwfuh77yrXDE"
+    },
+    {
+      "index": 23,
+      "block_sha256": "aedcc6270b41e56b5afbda4792c3c648520592f93fc0a218eb6b211fbd85741f",
+      "payload_hex": "e6495e8693897466b0f65ad91ab8fb5a00000017",
+      "address": "1MzeJuWC7igScF7GDWDv1d2tPUR23KzZ1A"
+    },
+    {
+      "index": 24,
+      "block_sha256": "5eb29ae16f0547748edbca252214d8cd3ca2bd1b2a8a07ed1f8179ed91a569a1",
+      "payload_hex": "3c8b5c87d6323279bb83e93f26f4e63f00000018",
+      "address": "16X8VWkcqWbBGCvKULx5KKdPMKXEUB7n39"
+    },
+    {
+      "index": 25,
+      "block_sha256": "7c8ee5047fdfc124ec4d70a3ae70e82e2649329a995fc3286512ff9597761590",
+      "payload_hex": "b06902bf01bbca602ae47260b39c417800000019",
+      "address": "1H5mj34284y3y4enFGWWiiGigCrzh3ieJC"
+    },
+    {
+      "index": 26,
+      "block_sha256": "b3dba4f21dc3b8851035ff8b64f4c1d64405196716d1f8303884f45b2de4e1e2",
+      "payload_hex": "0c505ee79441e4bfdece7779e1c97e450000001a",
+      "address": "1287PZLeynjfg6hywQReFmnoJ1Mf2LRdjf"
+    },
+    {
+      "index": 27,
+      "block_sha256": "a50e2d759a3ab103a6394ee88b3bbc19f60a09daed8d61973fc8b234d2b7083f",
+      "payload_hex": "a4a885a16922b6550d49bd939b8be7c70000001b",
+      "address": "1G1dhaGeyKSv9EsVSfq3GwoKLzkh8pRW3t"
+    },
+    {
+      "index": 28,
+      "block_sha256": "172ac4b926dcc68f344d2e1eefeb8786db8606f76dc7d8ef36b32ce4062097b7",
+      "payload_hex": "988302e2aa4a41dadeb4d56b303f750f0000001c",
+      "address": "1EuQeytqLzh6mfuN2qrmLaX99qRNcyjszN"
+    },
+    {
+      "index": 29,
+      "block_sha256": "eed7106b26106385f81c98eac25a33ebb062a4d4c9f16c5731d8d0a3bd17aa87",
+      "payload_hex": "b202e0378657c8a65a1bb994b846d6440000001d",
+      "address": "1HEEixs9m9uMbotmFJ3wdkWA7k2kePqJiv"
+    },
+    {
+      "index": 30,
+      "block_sha256": "3405cfcb4fe89a112e4528b60d159a8ecf96cfaa101584824351e79ca5ce87dd",
+      "payload_hex": "c0afc073aa3e6a2057d4174e491cd66f0000001e",
+      "address": "1JZqHH8guD5fWPFmdb3ZwaB6Libhhj9kgM"
+    },
+    {
+      "index": 31,
+      "block_sha256": "72807fef7dd23f3a8622a6d58729bf3185e3d63e30d4aef60e3dcbeba496faf9",
+      "payload_hex": "cc83a20ae120289c3d7347b4978083290000001f",
+      "address": "1KeNY9t1EF1PFbFwe8MJ2hoz62SovUPZaZ"
+    },
+    {
+      "index": 32,
+      "block_sha256": "f7c406f353188feae43d03f14cdc23dc5bba530417cc314a1b90536fc4473b74",
+      "payload_hex": "e8d703d5b13f0659bb7c42ed038589d300000020",
+      "address": "1NE9M1RgHPZUbD7iep9QKJd87sfZL5eu8M"
+    },
+    {
+      "index": 33,
+      "block_sha256": "b695303db63ff90c3238502e7696a1c4302146756a5ef4796498dc90a916a8f7",
+      "payload_hex": "5530f7768198c6f496613c14e5fe3ae400000021",
+      "address": "18mT6ZxUCQ6RLiCVAUq5rd5L98J4djfqib"
+    },
+    {
+      "index": 34,
+      "block_sha256": "05c6c0ec1d7c0b0c234ed3056f058d1ecb79542a181e7c4365b76c6afcdd21bd",
+      "payload_hex": "4c1189684f457f79dfa1124a4ad2eac500000022",
+      "address": "17wDN47hjjWkKTL5KDzwghwcfvyNP1geJN"
+    },
+    {
+      "index": 35,
+      "block_sha256": "95493f4523937bde94b09fe3b7538092d4d01570b96922de305f09667d71f840",
+      "payload_hex": "af0e1c3d9b18d4bdc48b80925bc3054900000023",
+      "address": "1Gxc9yPUmDWWvLxX7dWk4c4ghyhcTQFQV6"
+    },
+    {
+      "index": 36,
+      "block_sha256": "88d9643a998ee89289fa0d5da3663dd0f5bb6763bf574abe1aa548a9d6e4eadc",
+      "payload_hex": "57ca04f7c75ed6b1d210e5df958d2c5500000024",
+      "address": "191BoF8bv8F5Ud6FpacpgiUKkZ1f85gMHp"
+    },
+    {
+      "index": 37,
+      "block_sha256": "ac7328f438af19668c2926921321f08577f6ec95b55316c71fbab9d9cf2da369",
+      "payload_hex": "4f12e1e72c0e872ced744b28f03edccb00000025",
+      "address": "18D718VGoFqFEcHCCKH7Kzmh7yBEPWpZPa"
+    },
+    {
+      "index": 38,
+      "block_sha256": "597e9743687ab0ceb084e19633b16768464884e7ddf74c58692e29949a509c9e",
+      "payload_hex": "a054ac6c19070520343e36faae3dee4100000026",
+      "address": "1FckYuvbndPHpR2mSEhQ8bXufHHa7obhoB"
+    }
+  ]
+}

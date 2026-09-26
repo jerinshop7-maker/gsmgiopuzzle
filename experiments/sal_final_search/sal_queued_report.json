@@ -1,0 +1,1278 @@
+{
+  "attempts": [
+    {
+      "id": "Q-1",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:last3",
+      "cand": "is also irrelevant",
+      "lock_hit": false,
+      "lock": {
+        "valid_padding": [
+          "small/hexdigest/md5"
+        ]
+      },
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-2",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:last3-nospace-lower",
+      "cand": "isalsoirrelevant",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-3",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:last3-initials",
+      "cand": "iai",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-4",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:last5",
+      "cand": "realize it is also irrelevant",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-5",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:last5-nospace-lower",
+      "cand": "realizeitisalsoirrelevant",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-6",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:last5-initials",
+      "cand": "riiai",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-7",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:last7",
+      "cand": "may not realize it is also irrelevant",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-8",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:last7-nospace-lower",
+      "cand": "maynotrealizeitisalsoirrelevant",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-9",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:last7-initials",
+      "cand": "mnriiai",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-10",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:last10",
+      "cand": "you may or may not realize it is also irrelevant",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-11",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:last10-nospace-lower",
+      "cand": "youmayormaynotrealizeitisalsoirrelevant",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-12",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:last10-initials",
+      "cand": "ymomnriiai",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-13",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:last14",
+      "cand": "be the most pertinent you may or may not realize it is also irrelevant",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-14",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:last14-nospace-lower",
+      "cand": "bethemostpertinentyoumayormaynotrealizeitisalsoirrelevant",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-15",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:last14-initials",
+      "cand": "btmpymomnriiai",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-16",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:last20",
+      "cand": "Concordantly while your first question may be the most pertinent you may or may ",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-17",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:last20-nospace-lower",
+      "cand": "concordantlywhileyourfirstquestionmaybethemostpertinentyoumayormaynotrealizeitis",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-18",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:last20-initials",
+      "cand": "cwyfqmbtmpymomnriiai",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-19",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:full-sha-hex",
+      "cand": "f72ed90aeb6e6e5c871a1533023cfb6d7d33e47f75e946f0c80a5cfc75270418",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-20",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:full-nospace-lower",
+      "cand": "ivebeenwaitingforyouyouhavemanyquestionsandalthoughtheprocesshasalteredyourconsc",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-21",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:prime-rank",
+      "cand": "veentnrouayiadhhestdosuyneolhnnrildnoyicdnorsqeitoyntiiv",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-22",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:nonprime-rank",
+      "cand": "ibewaiigfoyuyohavemnquestonsnaltoughteprocshasalereyurconciosnessouremaiirrvcaby",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-23",
+      "family": "lastwords-nonliteral",
+      "label": "arch_monologue:reversed",
+      "cand": ".tnavelerri osla si ti ezilaer ton yam ro yam uoy ,tnenitrep tsom eht eb yam noi",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-24",
+      "family": "lastwords-nonliteral",
+      "label": "digits149:full-sha-hex",
+      "cand": "71e3af174d533ad2c1c79fce64308f5fdf200f3cc50f059b2f1485a2c5f1765d",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-25",
+      "family": "lastwords-nonliteral",
+      "label": "digits149:full-nospace-lower",
+      "cand": "15165943121972409169171213758951813141543131412428154191312181219433121171617137",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-26",
+      "family": "lastwords-nonliteral",
+      "label": "digits149:prime-rank",
+      "cand": "51541796185433242831739631996116412",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-27",
+      "family": "lastwords-nonliteral",
+      "label": "digits149:nonprime-rank",
+      "cand": "16931292401917213759181311541141428151913111219431211617171411091631213112841101",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-28",
+      "family": "lastwords-nonliteral",
+      "label": "digits149:reversed",
+      "cand": "21145111731346612062121617341199121413166190119418213131213661901194173171617112",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-29",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:last3",
+      "cand": "first one seen",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-30",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:last3-nospace-lower",
+      "cand": "firstoneseen",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-31",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:last3-initials",
+      "cand": "fos",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-32",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:last5",
+      "cand": "as the first one seen",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-33",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:last5-nospace-lower",
+      "cand": "asthefirstoneseen",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-34",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:last5-initials",
+      "cand": "atfos",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-35",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:last7",
+      "cand": "as wide as the first one seen",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-36",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:last7-nospace-lower",
+      "cand": "aswideasthefirstoneseen",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-37",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:last7-initials",
+      "cand": "awatfos",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-38",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:last10",
+      "cand": "sad board but as wide as the first one seen",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-39",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:last10-nospace-lower",
+      "cand": "sadboardbutaswideasthefirstoneseen",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-40",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:last10-initials",
+      "cand": "sbbawatfos",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-41",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:last14",
+      "cand": "thingky mvps on a sad board but as wide as the first one seen",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-42",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:last14-nospace-lower",
+      "cand": "thingkymvpsonasadboardbutaswideasthefirstoneseen",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-43",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:last14-initials",
+      "cand": "tmoasbbawatfos",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-44",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:last20",
+      "cand": "winning A fubcd king oracle queen thingky mvps on a sad board but as wide as the",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-45",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:last20-nospace-lower",
+      "cand": "winningafubcdkingoraclequeenthingkymvpsonasadboardbutaswideasthefirstoneseen",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-46",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:last20-initials",
+      "cand": "wafkoqtmoasbbawatfos",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-47",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:full-sha-hex",
+      "cand": "fe2ee9e1d2218db842b5973f7761760d799ad6992cff4b6037fb0e940c7d358a",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-48",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:full-nospace-lower",
+      "cand": "raisingthestakeswithoutextrachancesofwinningafubcdkingoraclequeenthingkymvpsonas",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-49",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:prime-rank",
+      "cand": "aiigsawttcafnnunlqhkmabuaeioen",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-50",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:nonprime-rank",
+      "cand": "rsnthetkesihouextrahncesowinigafbcdkigoraceueentingyvpsonsadoardbtaswidesthfrstn",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-51",
+      "family": "lastwords-nonliteral",
+      "label": "riddle:reversed",
+      "cand": ".nees eno tsrif eht sa ediw sa tub draob das a no ,spvm ykgniht ,neeuq-elcaro & ",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-52",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:last3",
+      "cand": "the worst gear",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-53",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:last3-nospace-lower",
+      "cand": "theworstgear",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-54",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:last3-initials",
+      "cand": "twg",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-55",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:last5",
+      "cand": "it in the worst gear",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-56",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:last5-nospace-lower",
+      "cand": "itintheworstgear",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-57",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:last5-initials",
+      "cand": "iitwg",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-58",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:last7",
+      "cand": "let put it in the worst gear",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-59",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:last7-nospace-lower",
+      "cand": "letputitintheworstgear",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-60",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:last7-initials",
+      "cand": "lpiitwg",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-61",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:last10",
+      "cand": "on the highway let put it in the worst gear",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-62",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:last10-nospace-lower",
+      "cand": "onthehighwayletputitintheworstgear",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-63",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:last10-initials",
+      "cand": "othlpiitwg",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-64",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:last14",
+      "cand": "vagh jav Ok kid on the highway let put it in the worst gear",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-65",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:last14-nospace-lower",
+      "cand": "vaghjavokkidonthehighwayletputitintheworstgear",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-66",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:last14-initials",
+      "cand": "vjokothlpiitwg",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-67",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:last20",
+      "cand": "but nothing else 1 S cha vagh jav Ok kid on the highway let put it in the worst ",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-68",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:last20-nospace-lower",
+      "cand": "butnothingelse1schavaghjavokkidonthehighwayletputitintheworstgear",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-69",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:last20-initials",
+      "cand": "bne1scvjokothlpiitwg",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-70",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:full-sha-hex",
+      "cand": "e2f9dd65604a3231f8b3301724e8d713a88fffc4b6c7c4aeeb20f58a582b593a",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-71",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:full-nospace-lower",
+      "cand": "theironic2nameofthekeymakerstryingtoprotectthecurrentdigitalpowerswhicharestilli",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-72",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:prime-rank",
+      "cand": "hernnmtemtypetctapwhrleateekryigynipisntlypumeetikanhynotntm4xtteerfdaev1shwnuei",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-73",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:nonprime-rank",
+      "cand": "tioic2aeofhkeyakersringtorotctheurrendigitlowershicaestilinsveredngerdueothkymae",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-74",
+      "family": "lastwords-nonliteral",
+      "label": "phase2pt:reversed",
+      "cand": ".raeg tsrow eht ni ti tup tel ,yawhgih eht no ,dik kO\n\r)vaj * hgav( + 'ahc >- S\n",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-75",
+      "family": "lastwords-nonliteral",
+      "label": "sal_r3eng:full-sha-hex",
+      "cand": "d3dcdb2f2b66c1b95733b6944051eb4cc5d6143b4666fb1580928a262418cac1",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-76",
+      "family": "lastwords-nonliteral",
+      "label": "sal_r3eng:full-nospace-lower",
+      "cand": "shabefourfirsthintisyourlastcommand",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-77",
+      "family": "lastwords-nonliteral",
+      "label": "sal_r3eng:prime-rank",
+      "cand": "haeoisniucm",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-78",
+      "family": "lastwords-nonliteral",
+      "label": "sal_r3eng:nonprime-rank",
+      "cand": "sbfurfrthitsyorlastomand",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-79",
+      "family": "lastwords-nonliteral",
+      "label": "sal_r3eng:reversed",
+      "cand": "dnammoctsalruoysitnihtsrifruofebahs",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-80",
+      "family": "lastwords-nonliteral",
+      "label": "sal_r4c:full-sha-hex",
+      "cand": "e6190c95f277454dd5953a49d0b34dd176685cba336fa4b54277c8e4edc067cb",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-81",
+      "family": "lastwords-nonliteral",
+      "label": "sal_r4c:full-nospace-lower",
+      "cand": "shabefanstoo",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-82",
+      "family": "lastwords-nonliteral",
+      "label": "sal_r4c:prime-rank",
+      "cand": "haeao",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-83",
+      "family": "lastwords-nonliteral",
+      "label": "sal_r4c:nonprime-rank",
+      "cand": "sbfnsto",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-84",
+      "family": "lastwords-nonliteral",
+      "label": "sal_r4c:reversed",
+      "cand": "ootsnafebahs",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-85",
+      "family": "bifid",
+      "label": "DBG-keyed-A-last:raw",
+      "cand": "ceaabfibcgeheifeeaaiegaccgibggifgecbacecdcaaacdagaaagichdehahdgeachcaaibcagcabdi",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-86",
+      "family": "bifid",
+      "label": "DBG-keyed-A-last:upper",
+      "cand": "CEAABFIBCGEHEIFEEAAIEGACCGIBGGIFGECBACECDCAAACDAGAAAGICHDEHAHDGEACHCAAIBCAGCABDI",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-87",
+      "family": "bifid",
+      "label": "DBG-alpha:raw",
+      "cand": "deieeadcigbbefegigbfibbcigdifcaigffbhfcdcdgfdcadhieibacddfeadhcheficgfechhibgebg",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-88",
+      "family": "bifid",
+      "label": "DBG-alpha:upper",
+      "cand": "DEIEEADCIGBBEFEGIGBFIBBCIGDIFCAIGFFBHFCDCDGFDCADHIEIBACDDFEADHCHEFICGFECHHIBGEBG",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-89",
+      "family": "bifid",
+      "label": "alpha-ai:raw",
+      "cand": "deieeadcigbbefegigbfibbcigdifcaigffbhfcdcdgfdcadhieibacddfeadhcheficgfechhibgebg",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-90",
+      "family": "bifid",
+      "label": "alpha-ai:upper",
+      "cand": "DEIEEADCIGBBEFEGIGBFIBBCIGDIFCAIGFFBHFCDCDGFDCADHIEIBACDDFEADHCHEFICGFECHHIBGEBG",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-91",
+      "family": "bifid",
+      "label": "rev-ai:raw",
+      "cand": "deieeadcigbbefegigbfibbcigdifcaigffbhfcdcdgfdcadhieibacddfeadhcheficgfechhibgebg",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-92",
+      "family": "bifid",
+      "label": "rev-ai:upper",
+      "cand": "DEIEEADCIGBBEFEGIGBFIBBCIGDIFCAIGFFBHFCDCDGFDCADHIEIBACDDFEADHCHEFICGFECHHIBGEBG",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-93",
+      "family": "dropped29",
+      "label": "TAIL570:kept",
+      "cand": "faedggeedfcbdabhhggcadcfeddgfdgbggaaedggafaecghggcdahehahbahgcefgbfgefgafabfagae",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-94",
+      "family": "dropped29",
+      "label": "TAIL570:dropped-as-message",
+      "cand": "iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-95",
+      "family": "dropped29",
+      "label": "LEAD91:kept",
+      "cand": "dbbbfbhccbegbhabebehbeggegebebbgehhebhhfbabfdhbeffcdbbfcccgbfbeeggecbedcbfbffggb",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-96",
+      "family": "dropped29",
+      "label": "LEAD91:dropped-as-message",
+      "cand": "iiiii",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-97",
+      "family": "dropped29",
+      "label": "R1_63:kept",
+      "cand": "agdafaaheecggchgcbbhcgbehcfcabcfdhhcdbbcagbdabbgbeadedde",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-98",
+      "family": "dropped29",
+      "label": "R1_63:dropped-as-message",
+      "cand": "oiioiio",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-99",
+      "family": "dropped29",
+      "label": "R2_29:kept",
+      "cand": "cfbfdhgdbdggdcdafdh",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-100",
+      "family": "dropped29",
+      "label": "R2_29:dropped-as-message",
+      "cand": "ooooiioooi",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-101",
+      "family": "esrever",
+      "label": "LEAD91:reversed",
+      "cand": "ebaeeebgigffbfbicdebceggeebfbgcccfbbdcffebhdfbabfhhbehhegbbebegeggebhiebebahibge",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-102",
+      "family": "esrever",
+      "label": "TAIL570:reversed",
+      "cand": "cihiihafhdiahabcdbibbibiibhhaccbghebfideihciiebgaggiaafgigheededfbfbiibdebfbaech",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-103",
+      "family": "esrever",
+      "label": "R1_63:reversed",
+      "cand": "eddedaebgbboiadbgacbbdchhdfcibaocfchebgchbbcighcggceiehaoafadga",
+      "lock_hit": false,
+      "lock": {
+        "valid_padding": [
+          "small/direct/sha256"
+        ]
+      },
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-104",
+      "family": "esrever",
+      "label": "R2_29:reversed",
+      "cand": "hdifooadcodgiioogdbodghdfbofc",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-105",
+      "family": "esrever",
+      "label": "R3B64A_63:reversed",
+      "cand": "9drdvfeHVWGsNw3DRbxSZovCkWnWUK4X+0C7OUBnUXXBJVh0UYt681XkVGdsF2U",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-106",
+      "family": "esrever",
+      "label": "R4B64B_64:reversed",
+      "cand": "Jj/NuGwXpepSjQn6XOWdvTqUjeK+ukR8IH5lMB1Es6iRbexpspko4BPj3v8t0XvQ",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    },
+    {
+      "id": "Q-107",
+      "family": "esrever",
+      "label": "url:reversed",
+      "cand": "detnalpsideeseht/oi.gmsg",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": true,
+      "door": {
+        "construction": "bits-reversed",
+        "addr": "13HGhjkmKUkP8sk9k63BLmhkxRjy7uK4Rp",
+        "candidate": "detnalpsideeseht/oi.gmsg"
+      },
+      "rank": "EXACT_MATCH"
+    },
+    {
+      "id": "Q-108",
+      "family": "esrever",
+      "label": "blob-small:reversed",
+      "cand": "Jj/NuGwXpepSjQn6XOWdvTqUjeK+ukR8IH5lMB1Es6iRbexpspko4BPj3v8t0XvQz9drdvfeHVWGsNw3",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": false,
+      "door": {},
+      "rank": "NO_MATCH"
+    }
+  ],
+  "matches": [
+    {
+      "id": "Q-107",
+      "family": "esrever",
+      "label": "url:reversed",
+      "cand": "detnalpsideeseht/oi.gmsg",
+      "lock_hit": false,
+      "lock": {},
+      "door_hit": true,
+      "door": {
+        "construction": "bits-reversed",
+        "addr": "13HGhjkmKUkP8sk9k63BLmhkxRjy7uK4Rp",
+        "candidate": "detnalpsideeseht/oi.gmsg"
+      },
+      "rank": "EXACT_MATCH"
+    }
+  ],
+  "bifid": [
+    {
+      "square": "DBG-keyed-A-last",
+      "head": "ceaabfibcgeheifeeaaiegaccgibggifgecbacecdcaaacdagaaagichdehahdgeachcaaibcagcabdi",
+      "up_head": "CEAABFIBCGEHEIFEEAAIEGACCGIBGGIFGECBACECDCAAACDAGAAAGICHDEHAHDGEACHCAAIBCAGCABDI",
+      "btcseed": false,
+      "printable": 1.0
+    },
+    {
+      "square": "DBG-alpha",
+      "head": "deieeadcigbbefegigbfibbcigdifcaigffbhfcdcdgfdcadhieibacddfeadhcheficgfechhibgebg",
+      "up_head": "DEIEEADCIGBBEFEGIGBFIBBCIGDIFCAIGFFBHFCDCDGFDCADHIEIBACDDFEADHCHEFICGFECHHIBGEBG",
+      "btcseed": false,
+      "printable": 1.0
+    },
+    {
+      "square": "alpha-ai",
+      "head": "deieeadcigbbefegigbfibbcigdifcaigffbhfcdcdgfdcadhieibacddfeadhcheficgfechhibgebg",
+      "up_head": "DEIEEADCIGBBEFEGIGBFIBBCIGDIFCAIGFFBHFCDCDGFDCADHIEIBACDDFEADHCHEFICGFECHHIBGEBG",
+      "btcseed": false,
+      "printable": 1.0
+    },
+    {
+      "square": "rev-ai",
+      "head": "deieeadcigbbefegigbfibbcigdifcaigffbhfcdcdgfdcadhieibacddfeadhcheficgfechhibgebg",
+      "up_head": "DEIEEADCIGBBEFEGIGBFIBBCIGDIFCAIGFFBHFCDCDGFDCADHIEIBACDDFEADHCHEFICGFECHHIBGEBG",
+      "btcseed": false,
+      "printable": 1.0
+    }
+  ],
+  "dropped": [
+    {
+      "stream": "TAIL570",
+      "kept_len": 495,
+      "dropped_len": 75,
+      "dropped_head": "iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii"
+    },
+    {
+      "stream": "LEAD91",
+      "kept_len": 86,
+      "dropped_len": 5,
+      "dropped_head": "iiiii"
+    },
+    {
+      "stream": "R1_63",
+      "kept_len": 56,
+      "dropped_len": 7,
+      "dropped_head": "oiioiio"
+    },
+    {
+      "stream": "R2_29",
+      "kept_len": 19,
+      "dropped_len": 10,
+      "dropped_head": "ooooiioooi"
+    }
+  ],
+  "esrever": []
+}

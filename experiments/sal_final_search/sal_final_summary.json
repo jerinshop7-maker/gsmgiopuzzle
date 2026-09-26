@@ -1,0 +1,14 @@
+{
+  "total": 2868,
+  "by_rank": {
+    "PARTIAL_STRUCTURAL_MATCH": 1231,
+    "NO_MATCH": 1632,
+    "VALID_CIPHERTEXT": 1,
+    "KNOWN_TOKEN": 4
+  },
+  "targets": [
+    "1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe",
+    "17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa"
+  ],
+  "note": "No EXACT_MATCH without exact address equality. See CHECKPOINT."
+}

@@ -1,0 +1,9 @@
+{
+  "acquired_at_utc": "2026-09-03T23:04:44+00:00",
+  "input_artifact": "/home/kali/gsmgiopuzzle/raw/web/live/phase2/response.bin",
+  "password": "sha256('causality') hex string with EVP-SHA256",
+  "plaintext_head": "The ironic 2name of the keymakers trying to protect the current digital powers which are still in severe danger due to the keymaker's way of security by hiding, nearly unprotected, in plain sight. {eps3.4_[in one of the valleys of Phillip]r",
+  "plaintext_length": 656,
+  "plaintext_sha256": "5607b4c3ebadcfc57f203a315d7f29ebf1ac091132a3ee413376a4bfcc205bbd",
+  "readable_prefix_match": true
+}

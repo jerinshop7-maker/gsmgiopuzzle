@@ -1,0 +1,46 @@
+{
+  "abba_spans": [
+    [
+      91,
+      195
+    ],
+    [
+      959,
+      999
+    ]
+  ],
+  "acquired_at_utc": "2026-09-03T18:34:23+00:00",
+  "compact_length": 1075,
+  "digit_spans": [
+    [
+      0,
+      765
+    ],
+    [
+      766,
+      829
+    ],
+    [
+      830,
+      859
+    ],
+    [
+      861,
+      867
+    ],
+    [
+      959,
+      999
+    ],
+    [
+      1064,
+      1070
+    ]
+  ],
+  "digit_stream_a1zhex": "\u0010\u000f/K6?\u0018\fXM\u001f+A,L/\u001ba\u000b6M[=5NM\"\u0013UQR\u0012a#`HC8G`\f`\u0011\u000fK\rH\u0019\u0011CK9G>\rL\"\u0019`=\u0010')W-8NSM\u000fJ4X99S9\u000e>1\u00118'%O@%\u000bM>a\u0013$\u001c5\u000f #[]4HO5-MC9\u000f/Lc'cEDM%C+/K?\u0019;KE\u001b\\MNV\u0017O@:6@\u0011]*Y%\u00136\u000fQWX'TND\u001d]5\u001d]YYcO,KX.+S\u0015C>QU\u001195\u0010:ICMI\u0011DWR\u0013Y1:V-M/'WMMQ)YOHK%6?/G!-Y]a>BWG;*\u0019\\\u0019c@L0_7_7'@J\u00121MD9E\u0010EM\u0017\u0017:#\f>6\u001d\\>@67Wa=\u0013M\u0011\u0019c&_1>:H!\u0012Rc\u001d\u0016\\+\u0015Q^V\u0012cY",
+  "digit_stream_sample": "afaedggeedfcbdabhhggcadcfeddgfdgbgigaaedggiafaecghggcdaiheha",
+  "first91_abba": null,
+  "next103_abba": null,
+  "region3_head": "shabefourfirsthintisyourlastcommandU2FsdGVkX186tYU0hVJBXXUnBUO7C0+X4KUWnWkCvoZSx",
+  "source_artifact": "raw/web/live/salphaseion/response.bin"
+}

@@ -1,0 +1,349 @@
+# Artifact Inventory
+
+Total raw artifacts: 115
+
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/decentraland-assets/01-show-interactive.png`
+  - sha256: `3dc545d09717041004a956618e14b0daf55de75376e7cd00a80b0a14b08a94ed`
+  - size: 240221 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/decentraland-assets/02-dcl-info.png`
+  - sha256: `60fc0db5a9f708dcaf7bbb3df5abdbe313e9fa3cfecd62e691ea90096f3637c4`
+  - size: 55221 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/decentraland-assets/puzzlepiece.mp3`
+  - sha256: `ef17a96dce37b4dd7cbf79f210c5cbaf37fcae60e5faf8004de4e0832bd0dfee`
+  - size: 212031 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/decentraland.ipynb`
+  - sha256: `62f981b8be64d50d5833c12e81bb16e4320b2d2e3210bde91c645c85d6759443`
+  - size: 1152695 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2020-01-14-roses-are-red.png`
+  - sha256: `7f4886a829a682012d9120f2fce923394accade39046e7283d41a3986fea3410`
+  - size: 90192 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2020-02-20-decentraland.jpg`
+  - sha256: `312dfc1898cb0a453ad093d7febb21c1d799717b2c089a5ea1d204aa96df9a35`
+  - size: 90957 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2020-04-08.png`
+  - sha256: `64db0a372d006dc9b6d7900e8de028eb5f8a9a6e50866565a2e530f69f4f9cfc`
+  - size: 57827 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2020-05-11.png`
+  - sha256: `ac8e1d9bbc1e7891eff5282e39dbc57ca0f8ef90e827b4fde4aef7f944ecdfc2`
+  - size: 47397 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2020-06-07-salph-discord.png`
+  - sha256: `349aca1ff8271272674bfffa99fed92e2393881b7acb19eb76042687ce3a90dc`
+  - size: 20515 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2020-08-02.png`
+  - sha256: `de4186928bb3bacd78724a8b1036245561728224fb73efec66a647084ba991dc`
+  - size: 82591 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2021-01-21.png`
+  - sha256: `3acd19edd58a678249b669670cc61b66bd3ade6ad40b8f521eb57dfff1aad523`
+  - size: 62794 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2021-02-12-salph-mention.png`
+  - sha256: `b6c7e76159a1df675b9d09ea4a02982533b6fd62604b754f97f61dc38e5a1d55`
+  - size: 78406 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2021-03-01-primes.png`
+  - sha256: `233f67719bbec6be109a56b60c18a6d3ae705aefbe0ea8371eac57a72d96dede`
+  - size: 189488 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2021-03-01-spelling-hint.png`
+  - sha256: `c0f1747aa365636f244214f3e895f8bcf9b02040f57d19f18885ce63f39367ef`
+  - size: 134859 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2021-03-14.png`
+  - sha256: `4e3dc1a4c1306be5efaccec6f47f95c1652a21cc33d23991927a33dd8975ebf4`
+  - size: 131249 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2021-04-01-april fool.png`
+  - sha256: `e7ff51ad5e00646d9fb785602090db93da36d249365326e46e8ca1ec959ac33c`
+  - size: 33218 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2021-04-16-salph.png`
+  - sha256: `6d0038e5f7988e3d8f6bf46892f445680b2f8c3194d30b438687e6b73cdb5812`
+  - size: 211370 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2021-05-06-salph instructions.png`
+  - sha256: `21b3f2eaa7bdf8db60d2ab8d579087f2499ce8f864974f803d722692a19ff596`
+  - size: 32128 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2021-12-02-another-door-hint.png`
+  - sha256: `6fbd2939e02d0f48fa2f83cd82d83052f751033262e52f0eeb5eba7926a87ebb`
+  - size: 43838 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2021-12-25-hint.png`
+  - sha256: `63096303fc9fc83292bc33e3819746c99f87495ca618bb19afa65645e7409083`
+  - size: 65612 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2022-12-10-cosmic.png`
+  - sha256: `6c61b0d2245d9627f10ed6e82a5f76aa2e0701bf6a8f977c4772ceabcffdfc5d`
+  - size: 243495 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2023-01-09-prime-number.png`
+  - sha256: `fa043633c30163a7c8ffe162a137e20eac44993cb44b65b35ed8f741f3348fb5`
+  - size: 50943 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2023-01-12-theory of everything.png`
+  - sha256: `d94f05e7a955244aa2ae10261a7217097747d7f52ea49da2d254c015ff41fee6`
+  - size: 30798 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2023-02-23.png`
+  - sha256: `5dddf73995c45497facb034e3d38d2bbbe3642603b15fce22e118d34209c0197`
+  - size: 155098 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2023-08-03-1.png`
+  - sha256: `3e955954b5b8f687a8615ab409f1481556c448145980cdbe11dd0b0de0e8c216`
+  - size: 77053 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2023-08-03-2.png`
+  - sha256: `6564f5a9be9e4f43c1fced18775cf117992c8884742cf7f14ffa23f1a51e3395`
+  - size: 50112 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2023-08-06-1.png`
+  - sha256: `2696ea0469ed91d4f03a6b06f038d3c62837015caef4a450eb3eaf3794bc4f7d`
+  - size: 169022 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2023-08-06-2.png`
+  - sha256: `692add262a52302458069e7172c74b2b13aeee1e734685ce201fcb1ab5f42743`
+  - size: 80485 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2023-08-06-3.png`
+  - sha256: `75e756cec140a234f146e30b42be4155cbb332bbe5241d54c35b33f35ddb2a26`
+  - size: 32782 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2023-08-06-4.png`
+  - sha256: `5b4b92a99af75af85150293ab89b5a2d9a8b2682e7bc1d5a049ad7a0804f0c23`
+  - size: 200644 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2024-04-10.png`
+  - sha256: `f6d874a357ad45287c8bb30638e525b42a3f1ee1a84c5b32922764b73c887b0e`
+  - size: 31810 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2024-04-19-1.png`
+  - sha256: `ff7ee78ab3805a2f5d9f4b16e6418e132ddfa963338d067a781efabeef90eab8`
+  - size: 101090 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2024-04-19-2.png`
+  - sha256: `85dcbbd1c2dc00ef0e566c1caa2b485ef2c53650fba211acb66ab0350cfd2af8`
+  - size: 99806 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2026-01-01-new-year-hint.png`
+  - sha256: `028419db3ee983bd38e44acf2b1ed642f329b3624081ab789622580dca78e26f`
+  - size: 170312 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2026-07-12-official-hint.png`
+  - sha256: `d7f2c4c7fa3d608be892428984bc7488c017b68dd5c493bf0e7f4ba440c501e0`
+  - size: 34745 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/2026-07-12-other-msg.png`
+  - sha256: `357b3ce1f1108a7203554b6c0fd7c21f8359fad0de4dc767bf5c0771603d7c42`
+  - size: 68341 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/cosmic-duality-book.png`
+  - sha256: `edde7220c751583a7f9a884b64ee72a28e8d5c2e53c29a74d7a1c7cdc4221504`
+  - size: 687085 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/hints/decentraland-tg.png`
+  - sha256: `e0e9d0ea66a1e867032a54217fc57833a4b1bfcb114fd3d67a029776a19f60f6`
+  - size: 247119 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase0.ipynb`
+  - sha256: `a9b5d6071a2b9618e7fcc40355761ccc2a31481c3a514408b101c8b2283e9bbc`
+  - size: 7592 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase1-assets/phase1-source.png`
+  - sha256: `42139a8e1a32c99b1f76cc9ff02050f2c120c6ed1498644324d0803d4c45807c`
+  - size: 108525 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase1-assets/theseedisplanted.png`
+  - sha256: `6230f079b0127877aaa19988316d0338a7a8b72280417b3afd6d5fe632ea2993`
+  - size: 8619 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase1-assets/warning-logic.png`
+  - sha256: `d250c422f4c2f26ab1b1a02b16914c35ecc69e890b88a7ae47ef210bdb6d4317`
+  - size: 8204 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase1.ipynb`
+  - sha256: `60f424df150dc3c133328226275d50c00217764d816af355519822563f95e9bc`
+  - size: 174985 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase2-assets/chess.png`
+  - sha256: `a233c888f30182c5e29af2176a3df1de36b6752233d40197fe8495bc1fdfa5df`
+  - size: 83207 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase2-assets/part1-google-search-1.png`
+  - sha256: `bed575656013558454d4a23d1c37109b1555e621b3fd578c8d1aa035508788a4`
+  - size: 155887 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase2-assets/part1-google-search-2.png`
+  - sha256: `09b9dd3d9769688fb7ae866ffd089eda11125d83b4590a3ae1f6094fa138369e`
+  - size: 209462 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase2-assets/part1-google-search-3.png`
+  - sha256: `51ee5a93d9b91b014e06b218a23dcc6c59395ce43e62dcac50adbf0ff9c1e810`
+  - size: 175887 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase2-assets/phase2.1.txt`
+  - sha256: `e2f9dd65604a3231f8b3301724e8d713a88fffc4b6c7c4aeeb20f58a582b593a`
+  - size: 648 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase2-assets/phase2.png`
+  - sha256: `04859b383075fcd5bd42b90d27266cf811590d52a02a37267b9e8440ecaeaa93`
+  - size: 312826 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase2-assets/phase2_aes.txt`
+  - sha256: `5e583d5b8626aa80f8a1ae61e7ad62fb2640bedb73fcc12ba68fa13b15dfa94d`
+  - size: 910 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase2-assets/phase3.txt`
+  - sha256: `c4ad94559a44a927c1032cc0e024515f9510a0806a2d14458dbf4a360af9865f`
+  - size: 4090 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase2-assets/phase3_aes.txt`
+  - sha256: `bb357b4a78cdf7f73255ac81046a9a05ffccebeaf1e98b79fa4f8b7f2ad3912f`
+  - size: 5569 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase2.1-assets/H-guide.png`
+  - sha256: `8d2ee646ae76efc30b41a94ce3b1062dd2c482a1c3e8c2cd5e9a4e412e79b819`
+  - size: 188413 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase2.1-assets/H-nothing-useful.png`
+  - sha256: `e1ce52c49cef5d40a2ad9a8fcba4328e154b2c017279c65abafc2e0b2a68e86e`
+  - size: 192332 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase2.1-assets/coords.png`
+  - sha256: `798784393edb5850f201d712ca3a85038611b5a16e24c64e5abb1942a7b9ae39`
+  - size: 325831 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase2.1-assets/intel-i5.png`
+  - sha256: `b14180c1ae1d182f0670c2d020fd3180c4562010d4e9a88c39f03129b095547f`
+  - size: 129786 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase2.1-assets/klingon.png`
+  - sha256: `4ed935f6cb7ac10e578769da0901238d07b302e37783375c7781f4de3dfdfa6e`
+  - size: 118894 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase2.1-assets/mr-robot-hsm.png`
+  - sha256: `79d7e9f38ae0c0e3835b58de1bdd43e7f0b2dd046474745b89a22135e87c435f`
+  - size: 165662 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase2.1-assets/mr-robot-search-1.png`
+  - sha256: `9253777d78c83e6c0397c88f68139c18a52972b05047f1ce2963613de5ba7823`
+  - size: 140012 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase2.1-assets/qwerty.png`
+  - sha256: `4048e84b3ce5bab5c80bc2e8b16d451ad545ab730f2f6d504c230cb6264ad80b`
+  - size: 189004 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase2.1-assets/safenet-coords.png`
+  - sha256: `ec8d07dbbecaad5f6f5946d7d06c2a176b0066303ce0b3166ac9540165fba901`
+  - size: 391448 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase2.ipynb`
+  - sha256: `fa884a087430deaeef17234c82c82d9e83e9bffd806dd2853b8680a7d9a1f1de`
+  - size: 3739609 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase3-assets/google-3.1.1.png`
+  - sha256: `5ea67d6c2b3bef8ca6ba05e3a35ff7c254d19e353cc413dc475926e0e81dd3f0`
+  - size: 176524 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase3-assets/google-3.1.3.png`
+  - sha256: `c464f671697840f330d8942811b31556afadb2127f2557029efa21ac2bac598f`
+  - size: 186769 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase3-assets/just-one-second.png`
+  - sha256: `d820ef1584fa6abed8dd9ac71a943852c6dc32452e7a9ca9e5ce8c16d00893c6`
+  - size: 184607 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase3-assets/phase3.2-aes.txt`
+  - sha256: `a14a0efac8e6bfd43ed892a21f52806aa27d913c0222dfa46333617fd4b58640`
+  - size: 3316 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase3-assets/phase3.2.txt`
+  - sha256: `b82afeb86f9e50848220f9b64b744b821400308aea273a1c949b9d2d0e408a34`
+  - size: 2422 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase3-assets/venus-project.png`
+  - sha256: `6d42406e8f1be2f647ca44a2fac40e483d2b434918941d2013a2e2bccf6e91f4`
+  - size: 211263 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase3.2-assets/beaufort-success.png`
+  - sha256: `7f2181ec6d3cba09c46bd58d04969c345e156a629934e709f15a4f863e7bbda3`
+  - size: 351176 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase3.2-assets/beaufort1.png`
+  - sha256: `445124ef254045e74eab343e4f477be4b7d12414edb2c64f70a8104cb964b683`
+  - size: 306552 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase3.2-assets/google-1.png`
+  - sha256: `e9274dcb56c3d166489e3481d30daaa51eee31275a0b87afef9928a7c73cd5cf`
+  - size: 186657 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase3.2-assets/in-case.png`
+  - sha256: `9aaebb937c82eb760814b0257bb62503b7ce3ca50ca6e25dfb7574c6e617707b`
+  - size: 74672 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase3.2-assets/phase3.2-screenshot-utf8.png`
+  - sha256: `66e9463973269d31b35beaecc6a1ca80cf4924e6a088bbaa6c3c97e11b1b79dd`
+  - size: 197803 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase3.2-assets/wake-up-neo.png`
+  - sha256: `02d8b91266322d06c1b668360632d2484885056c9032546bf08cc186a60d4b26`
+  - size: 80953 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase3.2-assets/why-am-i-here.png`
+  - sha256: `adfa1004272e064d5e257c84b30add71a8bd475958c8113413868393acc028ed`
+  - size: 78996 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase3.2.ipynb`
+  - sha256: `f8f6d01a87d47f754a0ed68b5daebf57f6f5b049281c445b97d7ea1cd38274ef`
+  - size: 1754587 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/phase3.ipynb`
+  - sha256: `17f72c9538bd158a5462c39261a3dc00c6bd07e33ae955827d0958e1e998a603`
+  - size: 1020572 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/puzzle.png`
+  - sha256: `38125bbdf1ea58b9b30b075bc6bf71e4089d04bba37098317e47097e2f2a1830`
+  - size: 29931 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/salphaseion-assets/SalPhaselonCosmicDuality.png`
+  - sha256: `a3810ba24250c5a04908e1281c2202e73f7487f9d19f41bfd2c3e55fa9be57ed`
+  - size: 49970 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/salphaseion.ipynb`
+  - sha256: `2c4b2e6aa4aa3d8d3f5b5ee49ffc6a2c03e894efccdffc6dc30bc2536c384b14`
+  - size: 85624 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/Naddiseo-gsmgio-5btc-puzzle/working/unverified/.gitkeep`
+  - sha256: `e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855`
+  - size: 0 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/floflo777-open-crypto-puzzles/.gitignore`
+  - sha256: `866b15a129d2560daed4df28f6e980954d6b268a120375b6e536d4c170c7df29`
+  - size: 66 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/floflo777-open-crypto-puzzles/1-big-prizes/gsmg-io-5btc-puzzle/data/planted-addresses.csv`
+  - sha256: `1be079339a6a61467fb8d723f56febcf42e892dce0fb9026b2eb10b0d4dc1d6d`
+  - size: 1776 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/floflo777-open-crypto-puzzles/1-big-prizes/gsmg-io-5btc-puzzle/images/01-structure-stages.svg`
+  - sha256: `1ef1b2add1b2a812536961f6bd250f87ab3dabe123bf9bd74c1217cff281094f`
+  - size: 4430 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/floflo777-open-crypto-puzzles/1-big-prizes/gsmg-io-5btc-puzzle/images/02-pipeline-derivation.svg`
+  - sha256: `bb72d0f43c0a8f0ae712febe28d488ee4125a7eb5ff8fdbff13fcc5340efd82e`
+  - size: 3568 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/floflo777-open-crypto-puzzles/1-big-prizes/gsmg-io-5btc-puzzle/tools/fig_pipeline.py`
+  - sha256: `5e9ba6b5c9ca5d84f4578b6e0f178b3e8c8f6fa8390215cec853152688aebeeb`
+  - size: 4716 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/floflo777-open-crypto-puzzles/1-big-prizes/gsmg-io-5btc-puzzle/tools/fig_stages.py`
+  - sha256: `8f98263365a773e69a01c332525f63023fe95fd466e4e13247f9e8b416ba661e`
+  - size: 6782 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/floflo777-open-crypto-puzzles/1-big-prizes/gsmg-io-5btc-puzzle/tools/oracle.py`
+  - sha256: `b4f431bef7856526f18e53ada94e5bd6f8b31e20c73e6619bc165c3a32b5e5eb`
+  - size: 12835 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/floflo777-open-crypto-puzzles/LICENSE`
+  - sha256: `fc6a6326131cd2f916dad66cffc42ff98b0d5fb20d4f81fd55c149aeb773de84`
+  - size: 19149 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/floflo777-open-crypto-puzzles/LICENSE-CODE`
+  - sha256: `0e3250bd09cde581873080699e534c4dd98ba95ff328bdcdc40d8855d3802216`
+  - size: 1066 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/jackdevs66-GSMG5_CDuality/cosmic_decrypted.bin`
+  - sha256: `4f7a1e4efe4bf6c5581e32505c019657cb7b030e90232d33f011aca6a5e9c081`
+  - size: 1327 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/jackdevs66-GSMG5_CDuality/working/.gitattributes`
+  - sha256: `1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b`
+  - size: 66 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/jackdevs66-GSMG5_CDuality/working/SalPhaseIon.txt`
+  - sha256: `d39d10b1e1902d2620eb19ebcad4215e23c048de639466cca9a26bdc9303330c`
+  - size: 2149 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/jackdevs66-GSMG5_CDuality/working/cosmic_duality.txt`
+  - sha256: `8ed3f8e3cacb4a03863a83c270f963e575fe323478d5fc11bc8afe493308d269`
+  - size: 1846 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/jackdevs66-GSMG5_CDuality/working/solver_salphasion_cosmic.py`
+  - sha256: `b86a1f9db6145e3edb56ecbb2345452c703d74eb40c73d5a2ab2f40fe15ea07c`
+  - size: 2405 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/jackdevs66-GSMG5_CDuality/working/validate_uniqueness.py`
+  - sha256: `4c3cf8cf20ed801ea2d49373788b06cd4b05aa9f55f5ad42d5fc55e62cd07cd8`
+  - size: 2731 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/puzzlehunt-gsmgio-5btc-puzzle/working/SalPhaselonCosmicDuality.png`
+  - sha256: `a3810ba24250c5a04908e1281c2202e73f7487f9d19f41bfd2c3e55fa9be57ed`
+  - size: 49970 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/puzzlehunt-gsmgio-5btc-puzzle/working/phase2.png`
+  - sha256: `c5526b205cac47c5a79162296abfd0a6c46ea5f4f9249aa7e770c6014baf4964`
+  - size: 56258 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/puzzlehunt-gsmgio-5btc-puzzle/working/phase3.png`
+  - sha256: `c8637fc3ff532dcdefb5f3a3e50e4d4457ddcd725d8a157c3eed5d44de789ddb`
+  - size: 127044 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/puzzlehunt-gsmgio-5btc-puzzle/working/photo_2020-04-26_09-24-30.jpg`
+  - sha256: `312dfc1898cb0a453ad093d7febb21c1d799717b2c089a5ea1d204aa96df9a35`
+  - size: 90957 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/puzzlehunt-gsmgio-5btc-puzzle/working/puzzle.png`
+  - sha256: `38125bbdf1ea58b9b30b075bc6bf71e4089d04bba37098317e47097e2f2a1830`
+  - size: 29931 bytes
+- `/home/kali/gsmgiopuzzle/raw/github/puzzlehunt-gsmgio-5btc-puzzle/working/theseedisplanted.png`
+  - sha256: `6230f079b0127877aaa19988316d0338a7a8b72280417b3afd6d5fe632ea2993`
+  - size: 8619 bytes
+- `/home/kali/gsmgiopuzzle/raw/web/live/img_black_banking-war/response.bin`
+  - sha256: `907b489f6e77a828595805d7e370535a0aa85697ca951e0e09553e6c9a3410d2`
+  - size: 996 bytes
+- `/home/kali/gsmgiopuzzle/raw/web/live/img_blue_ca/response.bin`
+  - sha256: `e59d42e85997d395d41eaad6fb64f343eadb752918bf33098093e96a8a9dd8be`
+  - size: 627 bytes
+- `/home/kali/gsmgiopuzzle/raw/web/live/img_blue_dig_i/response.bin`
+  - sha256: `a6889a2e090d32920e47124f0187d2e61979409f9bb32a09bf0c990db56d05f9`
+  - size: 1030 bytes
+- `/home/kali/gsmgiopuzzle/raw/web/live/img_blue_lock_lo/response.bin`
+  - sha256: `60b01e5bc4181ed4236df736f7f7841aa98dde1aac108d65a385f5dc7a97cc6b`
+  - size: 783 bytes
+- `/home/kali/gsmgiopuzzle/raw/web/live/img_favicon/response.bin`
+  - sha256: `ca079023065e3d92167d0040987087decb2ddee9308e9ea763556f255ff5d9ec`
+  - size: 4269 bytes
+- `/home/kali/gsmgiopuzzle/raw/web/live/img_red_crypto_gic/response.bin`
+  - sha256: `8aad87b987ee7d8ee8c7884ba47abc022cb31753fd1a16a7e59101e50dd4a6f6`
+  - size: 1642 bytes
+- `/home/kali/gsmgiopuzzle/raw/web/live/img_red_n_you/response.bin`
+  - sha256: `89a81a1b30cc399ca77dde6ffa2b01d0807e8db9b22636d157ca9f54eaf86aeb`
+  - size: 863 bytes
+- `/home/kali/gsmgiopuzzle/raw/web/live/img_red_open_lock_n_ing/response.bin`
+  - sha256: `ea1cd545040c051a62e7695eb2dd2ad983be26849b54cd686feea12b11f3d203`
+  - size: 963 bytes
+- `/home/kali/gsmgiopuzzle/raw/web/live/img_red_t/response.bin`
+  - sha256: `86fb2eff01d3b4f25e7bd9c64c736ce0ffd0e129b8c77fab81aac5d02fd04d35`
+  - size: 506 bytes
+- `/home/kali/gsmgiopuzzle/raw/web/live/phase2/response.bin`
+  - sha256: `06fbd4461ab20d45c54a7053c7c0cfa256ba82a5ad4c73a47fac67f3f1cdf7d9`
+  - size: 9207 bytes
+- `/home/kali/gsmgiopuzzle/raw/web/live/puzzle/response.bin`
+  - sha256: `38125bbdf1ea58b9b30b075bc6bf71e4089d04bba37098317e47097e2f2a1830`
+  - size: 29931 bytes
+- `/home/kali/gsmgiopuzzle/raw/web/live/salphaseion/response.bin`
+  - sha256: `a83d3de7810f26b19b4965339b76d403e44f6b6877e5d7de2555480ca1779d77`
+  - size: 4536 bytes
+- `/home/kali/gsmgiopuzzle/raw/web/live/theseedisplanted/response.bin`
+  - sha256: `7cb766d406008a397f8ae32b3a38ca68b42724bb07b3481deb84baad5c725183`
+  - size: 832 bytes

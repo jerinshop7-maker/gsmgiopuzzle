@@ -1,0 +1,406 @@
+{
+  "nodes": [
+    {
+      "id": "puzzle",
+      "label": "gsmg.io/puzzle\n(puzzle.png)",
+      "kind": "artifact"
+    },
+    {
+      "id": "seed",
+      "label": "theseedisplanted\nflower password",
+      "kind": "artifact"
+    },
+    {
+      "id": "phase2",
+      "label": "Phase 2 / Phase 3\npage",
+      "kind": "artifact"
+    },
+    {
+      "id": "phase32",
+      "label": "Phase 3.2\n(Beaufort + VIC + p32)",
+      "kind": "artifact"
+    },
+    {
+      "id": "sal",
+      "label": "SalPhaseIon\n(textarea_0, 1075 tok)",
+      "kind": "artifact"
+    },
+    {
+      "id": "cosmic",
+      "label": "Cosmic Duality / Dualite\n(textarea_1, 1344B)",
+      "kind": "artifact"
+    },
+    {
+      "id": "url",
+      "label": "gsmg.io/theseedisplanted\n(down-first CCW spiral)",
+      "kind": "solved"
+    },
+    {
+      "id": "matrix_tok",
+      "label": "matrixsumlist\n(MID104 a/b)",
+      "kind": "solved"
+    },
+    {
+      "id": "enter_tok",
+      "label": "enter\n(R4A a/b)",
+      "kind": "solved"
+    },
+    {
+      "id": "r1_tok",
+      "label": "lastwordsbeforearchichoice\n(R1 bigint-hex)",
+      "kind": "solved"
+    },
+    {
+      "id": "r2_tok",
+      "label": "thispassword\n(R2 bigint-hex)",
+      "kind": "solved"
+    },
+    {
+      "id": "r3_tok",
+      "label": "yourlastcommand\n(R3ENG + shabef)",
+      "kind": "solved"
+    },
+    {
+      "id": "r4c_tok",
+      "label": "secondanswer\n(R4C 'ans too')",
+      "kind": "solved"
+    },
+    {
+      "id": "lead91",
+      "label": "LEAD91 (91 a-i)\nunsolved digit stream",
+      "kind": "open"
+    },
+    {
+      "id": "tail570",
+      "label": "TAIL570 (570 a-i)\nunsolved digit stream",
+      "kind": "open"
+    },
+    {
+      "id": "xor7",
+      "label": "XOR of 7 SHA-256\na795de11...",
+      "kind": "key"
+    },
+    {
+      "id": "cosmic_pt",
+      "label": "1327B cosmic plaintext\n4f7a1e4e...\n=103x103 matrix + ':'",
+      "kind": "decrypt"
+    },
+    {
+      "id": "matrix",
+      "label": "103x103 bit matrix\ndensity 0.49, non-sym",
+      "kind": "decrypt"
+    },
+    {
+      "id": "halfbetter",
+      "label": "Half/Better keys\n(DEAD - dust addrs)",
+      "kind": "dead"
+    },
+    {
+      "id": "chain1",
+      "label": "CHAIN 1 small blob\n79B K_C1/K_C2/E_C",
+      "kind": "decrypt"
+    },
+    {
+      "id": "chain2",
+      "label": "CHAIN 2 p32 blob\n79B K_S1/K_S2/E_S",
+      "kind": "decrypt"
+    },
+    {
+      "id": "chain4",
+      "label": "CHAIN 4 1151B e4269ed5\n+- + 29B op + 35x32B",
+      "kind": "decrypt"
+    },
+    {
+      "id": "blocks35",
+      "label": "35 blocks (32B each)\n7 marked 0x77 / 28 unmarked",
+      "kind": "decrypt"
+    },
+    {
+      "id": "bifid",
+      "label": "Bifid decode (DBIFHCEGA)\nTAIL570 -> BTCSEED...",
+      "kind": "decrypt"
+    },
+    {
+      "id": "even256",
+      "label": "even256 = 16x16 over 23 letters\nsha 1740b55b...",
+      "kind": "open"
+    },
+    {
+      "id": "xortri",
+      "label": "XOR triangle (Lucas)\n24/28/103 -> 16 survivors",
+      "kind": "open"
+    },
+    {
+      "id": "target1",
+      "label": "1GSMG1JC9w...\n(h160 a9553269...) ~1.256 BTC",
+      "kind": "target"
+    },
+    {
+      "id": "target2",
+      "label": "17ucy1K9ZU...\n(h160 4bc46844...) ~3.7505 BTC",
+      "kind": "target"
+    },
+    {
+      "id": "door",
+      "label": "Third door 1NULY7...\n(h160 eb862e...) no preimage",
+      "kind": "target"
+    },
+    {
+      "id": "h_dim",
+      "label": "H-DIM-003 23/16/7\nframe (SUPPORTED)",
+      "kind": "hyp"
+    },
+    {
+      "id": "h_prime",
+      "label": "H-PRIME-002 4x24\nprime confinement (FALSIFIED)",
+      "kind": "dead"
+    },
+    {
+      "id": "h_sel",
+      "label": "H-SEL-001 selector\n(FALSIFIED)",
+      "kind": "dead"
+    },
+    {
+      "id": "h_mech",
+      "label": "H-MECH-001 Half/Better\n(FALSIFIED)",
+      "kind": "dead"
+    }
+  ],
+  "edges": [
+    {
+      "from": "puzzle",
+      "to": "url",
+      "label": "spiral decode"
+    },
+    {
+      "from": "seed",
+      "to": "phase2",
+      "label": "flower -> URL"
+    },
+    {
+      "from": "phase2",
+      "to": "phase32",
+      "label": "SHA256 -> AES"
+    },
+    {
+      "from": "phase32",
+      "to": "sal",
+      "label": "Beaufort/VIC -> clue"
+    },
+    {
+      "from": "phase32",
+      "to": "chain2",
+      "label": "p32 blob WIF"
+    },
+    {
+      "from": "sal",
+      "to": "matrix_tok",
+      "label": "MID104 a/b->8bit"
+    },
+    {
+      "from": "sal",
+      "to": "enter_tok",
+      "label": "R4A a/b->8bit"
+    },
+    {
+      "from": "sal",
+      "to": "r1_tok",
+      "label": "R1 a-o->hex"
+    },
+    {
+      "from": "sal",
+      "to": "r2_tok",
+      "label": "R2 a-o->hex"
+    },
+    {
+      "from": "sal",
+      "to": "r3_tok",
+      "label": "R3ENG english"
+    },
+    {
+      "from": "sal",
+      "to": "r4c_tok",
+      "label": "R4C english"
+    },
+    {
+      "from": "sal",
+      "to": "lead91",
+      "label": "offset 0-91"
+    },
+    {
+      "from": "sal",
+      "to": "tail570",
+      "label": "offset 195-765"
+    },
+    {
+      "from": "sal",
+      "to": "chain1",
+      "label": "small blob 5-token"
+    },
+    {
+      "from": "cosmic",
+      "to": "cosmic_pt",
+      "label": "7-token XOR decrypt"
+    },
+    {
+      "from": "url",
+      "to": "seed",
+      "label": "POST password"
+    },
+    {
+      "from": "matrix_tok",
+      "to": "xor7",
+      "label": "token 1/5"
+    },
+    {
+      "from": "enter_tok",
+      "to": "xor7",
+      "label": "token 2"
+    },
+    {
+      "from": "r1_tok",
+      "to": "xor7",
+      "label": "token 3"
+    },
+    {
+      "from": "r2_tok",
+      "to": "xor7",
+      "label": "token 4"
+    },
+    {
+      "from": "r3_tok",
+      "to": "xor7",
+      "label": "token 6"
+    },
+    {
+      "from": "r4c_tok",
+      "to": "xor7",
+      "label": "token 7"
+    },
+    {
+      "from": "lead91",
+      "to": "bifid",
+      "label": "key DBIFHCEGA"
+    },
+    {
+      "from": "tail570",
+      "to": "bifid",
+      "label": "input period 570"
+    },
+    {
+      "from": "xor7",
+      "to": "cosmic_pt",
+      "label": "EVP-MD5 decrypt"
+    },
+    {
+      "from": "cosmic_pt",
+      "to": "matrix",
+      "label": "103x103 + 7-bit trail"
+    },
+    {
+      "from": "cosmic_pt",
+      "to": "chain4",
+      "label": "mask+raw32 decrypt"
+    },
+    {
+      "from": "matrix",
+      "to": "halfbetter",
+      "label": "base-38 (DEAD)"
+    },
+    {
+      "from": "matrix",
+      "to": "xortri",
+      "label": "103 rows"
+    },
+    {
+      "from": "halfbetter",
+      "to": "target1",
+      "label": "miss"
+    },
+    {
+      "from": "halfbetter",
+      "to": "target2",
+      "label": "miss"
+    },
+    {
+      "from": "chain1",
+      "to": "chain4",
+      "label": "E_C"
+    },
+    {
+      "from": "chain2",
+      "to": "chain4",
+      "label": "E_S"
+    },
+    {
+      "from": "chain4",
+      "to": "blocks35",
+      "label": "parse 31+35x32"
+    },
+    {
+      "from": "chain4",
+      "to": "xortri",
+      "label": "24 groups = 3x16"
+    },
+    {
+      "from": "chain4",
+      "to": "target1",
+      "label": "chain keys miss"
+    },
+    {
+      "from": "blocks35",
+      "to": "xortri",
+      "label": "28 unmarked = T7"
+    },
+    {
+      "from": "blocks35",
+      "to": "target1",
+      "label": "35 keys miss"
+    },
+    {
+      "from": "blocks35",
+      "to": "target2",
+      "label": "35 keys miss"
+    },
+    {
+      "from": "bifid",
+      "to": "even256",
+      "label": "even stream - I/O"
+    },
+    {
+      "from": "even256",
+      "to": "h_dim",
+      "label": "23 letters / 16x16"
+    },
+    {
+      "from": "even256",
+      "to": "target1",
+      "label": "all readings miss"
+    },
+    {
+      "from": "even256",
+      "to": "target2",
+      "label": "all readings miss"
+    },
+    {
+      "from": "xortri",
+      "to": "h_dim",
+      "label": "16 survivors + 7 = 23"
+    },
+    {
+      "from": "h_prime",
+      "to": "target1",
+      "label": "falsified"
+    },
+    {
+      "from": "h_sel",
+      "to": "target1",
+      "label": "falsified"
+    },
+    {
+      "from": "h_mech",
+      "to": "target2",
+      "label": "falsified"
+    }
+  ]
+}

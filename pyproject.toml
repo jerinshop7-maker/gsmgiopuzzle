@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gsmg-forensic-cryptanalysis"
+version = "0.1.0"
+description = "Evidence-first forensic analysis workspace for the GSMG.IO 5 BTC puzzle"
+requires-python = ">=3.11"
+dependencies = [
+  "beautifulsoup4>=4.12,<5",
+  "cryptography>=42,<48",
+  "numpy>=2,<3",
+  "Pillow>=10,<13",
+  "pytest>=8,<10",
+  "requests>=2.31,<3",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

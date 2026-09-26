@@ -1,0 +1,3 @@
+OCR of 2023-02-23.png - a grid of 161 binary tokens, all with low 3 bits = 110.
+Rows 1-29 (145 tokens) fully reliable; rows 30-33 from upscaled crops.
+Base32 / 5-bit interpretations produced binary garbage - recorded as a dead end.

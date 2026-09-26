@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+.DS_Store
+
+# Keep raw evidence, manifests, reports, and derived outputs tracked.
